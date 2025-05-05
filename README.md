@@ -11,7 +11,7 @@ This project includes the OCR, post-processing and manual post-correction of the
 1. Convert pdfs to png files:
 
 ```bash
-bash pdf2png.sh ../data/original ../data/png
+bash pdf2png.sh ../data/pdf ../data/png
 ```
 
 2. Setup account in Google Cloud Vision and authenticate:
@@ -37,3 +37,17 @@ python3 extract_text.py ../data/png ../data/json
 ```bash
 python3 prepare_data.py ../data/json ../data/text
 ```
+
+
+5. ollama + Open WebUI and RAG
+
+ollama create mixtral-8192 -f Modelfile
+ollama run mixtral-8192
+
+ollama create llama3.2-8192 -f Modelfile
+ollama run llama3.2-8192
+
+ollama create aya-8192 -f Modelfile
+ollama run aya-8192
+
+

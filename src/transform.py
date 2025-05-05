@@ -70,6 +70,8 @@ if __name__ == "__main__":
     text_path = Path(args.input)
     json_path = Path(args.output)
 
+    os.makedirs(json_path, exist_ok=True)
+
     text_fpaths = list(Path(text_path).rglob("*.txt"))
 
     if not args.end:
