@@ -1,0 +1,2 @@
+FROM aya:latest
+PARAMETER num_ctx 8192

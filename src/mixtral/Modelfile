@@ -1,0 +1,2 @@
+FROM mixtral:latest
+PARAMETER num_ctx 8192

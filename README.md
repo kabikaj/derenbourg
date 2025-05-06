@@ -38,16 +38,32 @@ python3 extract_text.py ../data/png ../data/json
 python3 prepare_data.py ../data/json ../data/text
 ```
 
+5. Create RAG with [OpenWebUI](https://github.com/open-webui/open-webui) and [ollama](https://ollama.com) or [OpenAI](https://platform.openai.com).
 
-5. ollama + Open WebUI and RAG
+Use the oficial information.
 
-ollama create mixtral-8192 -f Modelfile
+For local models with ollama you need to increase the context window:
+
+```bash
+ollama create mixtral-8192 -f src/mixtral/Modelfile
 ollama run mixtral-8192
 
-ollama create llama3.2-8192 -f Modelfile
+ollama create llama3.2-8192 -f src/llama3.2/Modelfile
 ollama run llama3.2-8192
 
-ollama create aya-8192 -f Modelfile
+ollama create aya-8192 -f src/aya/Modelfile
 ollama run aya-8192
+```
+
+6. Convert text files to structured data:
+
+```bash
+python3 transform.py ../data/text_corrected ../data/json_modelled --service openai --ini 1 --end 150
+```
+
+You can use openai or deepseek as service. You need to have the corresponding keys saved in .openai.env and .deepseek.env.
 
 
+## Website
+
+Visit the sample website at https://kabikaj.github.io/derenbourg
