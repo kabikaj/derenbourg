@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Tome II du commentaire sur le livre intitulé: L'art de faciliter",
+                "الجزء الثانى من شرح التسهيل"
+            ],
+            "date_of_book": {
+                "hijri": 780,
+                "CE": 1378
+            },
+            "author": [
+                "Badr ed-Dîn ibn Ḳâsim ibn Abd Allâh ibn Alî Al-Mourâdî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "L'art de faciliter"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "باب المستثنى",
+            "explicit": "يتلوه فى الثالث باب نونى التوكيد",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 215,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

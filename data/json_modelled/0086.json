@@ -1,0 +1,254 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la Schafiya d'Ibn Al-Hadjib"
+            ],
+            "date_of_book": {
+                "hijri": 977,
+                "CE": 1569
+            },
+            "author": [
+                "ابو الحسن على الكيلاني الشافعى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Schafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اعلم ايها المتعلم ان التصريف اى هذا اللفظ معناه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                29
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur une partie de l'Alfiyya d' Ibn Malik"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Malik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله عز وجل فلما صرفت الهمة الى شرح تصريف الخلاصة الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "Enseignement abrégé sur la science des flexions",
+                "ايجاز التعريف فى علم التصريف"
+            ],
+            "date_of_book": {
+                "hijri": 747,
+                "CE": 1346
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله الذى لا رد لكلمته ولا حد لعظمته الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "Poème rimant en kâf",
+                "قصيدة كافية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اقول وفى قريضى ما كفاكا        فخذ ما فيه تحويه مناكا",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur le poème précédent"
+            ],
+            "date_of_book": {
+                "hijri": 884,
+                "CE": 1479
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "قصيدة كافية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "هذا تعليق لطيف امليته على القصيدة الكافية فى التصريف الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "Ouvrage sur des questions grammaticales relatives à des passages difficiles du Coran"
+            ],
+            "date_of_book": {
+                "hijri": 747,
+                "CE": 1346
+            },
+            "author": [
+                "Ibn Hischâm AlAnşârî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قال الشيخ الامام جمال الدين عبد الله بن هشام الانصارى الحنبلى اما بعد حمد الله على افضاله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

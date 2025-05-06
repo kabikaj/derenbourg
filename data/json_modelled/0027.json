@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le Superbe, commentaire sur le traité des propositions de Abd al-Ķâhir Al-Djordjânî",
+                "كتاب الفاخر في شرح جمل عبد القاهر الجرجاني"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Schams ed-Dîn Moḥammad ibn Abî 'l-Fath ibn Abi 'l-Fadl Al-Ba´lî",
+                "الشيخ شمس الدين محمد بن ابى الفتح بن ابي الفضل البعلي"
+            ],
+            "date_of_author": {
+                "hijri": 645,
+                "CE": 1247
+            },
+            "book_commented_upon": [
+                "traité des propositions",
+                "جمل عبد القاهر الجرجاني"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Abd al-Ķâhir Al-Djordjânî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الى خلق الانسان وعلمه البيان",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 275,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

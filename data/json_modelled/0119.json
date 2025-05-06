@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le jugement juste sur les questions qui donnent lieu au désaccord",
+                "كتاب الانصاف في مسائل الخلاف"
+            ],
+            "date_of_book": {
+                "hijri": 609,
+                "CE": 1212
+            },
+            "author": [
+                "Kamâl el-Din 'Abd er-Raḥmân ibn Mohammad ibn Abi Sa'îd Al-Anbârî",
+                "كمال الدين عبد الرحمن بن محمد بن أبي سعيد الانبارى النحوى"
+            ],
+            "date_of_author": {
+                "hijri": 577,
+                "CE": 1181
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "الحمد لله الملك الحق المبين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 116,
+            "lines_per_page": [
+                26
+            ]
+        }
+    ]
+}

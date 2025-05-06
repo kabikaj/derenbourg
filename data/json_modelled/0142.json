@@ -1,0 +1,97 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la Préface par l'auteur",
+                "شرح الديباجة للمولف"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Mahmoud Al-'Ainî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                null
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قوله حمدا تقدير حمدت الله حمدا الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 222,
+            "lines_per_page": [
+                15
+            ]
+        },
+        {
+            "book": [
+                "مختصر شرح الشواهد",
+                "كتاب الشواهد تاليف ...... ابا محمد محمود بن احمد العينى"
+            ],
+            "date_of_book": {
+                "hijri": 859,
+                "CE": 1455
+            },
+            "author": [
+                "Mahmoud Al-'Ainî",
+                "ابا محمد محمود بن احمد العينى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "حمدا ناصعا ضافيا شرجعا شعلها الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 222,
+            "lines_per_page": [
+                15
+            ]
+        }
+    ]
+}

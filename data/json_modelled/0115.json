@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les avertissements au sujet des opinions fausses contenues dans le Tibyân ou l'Exposition",
+                "كتاب التنبيهات على ما فى التبيان من التمويهات"
+            ],
+            "date_of_book": {
+                "hijri": 668,
+                "CE": 1269
+            },
+            "author": [
+                "Aḥmad ibn Abd Allah ibn Mohammad ibn 'Adîra",
+                "احمد بن عبد الله بن محمد بن عديرة"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "التبيان في علم البيان",
+                "Tibyân"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": 651,
+                "CE": 1253
+            },
+            "author_of_book_commented_upon": [
+                "Abdel-Wâḥid ibn 'Abd el-Karim",
+                "ابن عبد الكريم"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "ابتدأ الكلام فى الدلالة الافرادية وجعل القول في ذلك في ثلاثة ابواب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébino",
+            "number_of_folios": 69,
+            "lines_per_page": [
+                15
+            ]
+        }
+    ]
+}

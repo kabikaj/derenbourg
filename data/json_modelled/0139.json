@@ -1,0 +1,184 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La clef des formations verbales",
+                "كتاب المفتاح فى ابنية الافعال"
+            ],
+            "date_of_book": {
+                "hijri": 921,
+                "CE": 1515
+            },
+            "author": [
+                "Ibn Mâlik",
+                "الامام العلامة بن مالك"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "لامية الأفعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 225,
+            "lines_per_page": [
+                17
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur La clef des verbes",
+                "كتاب شرح مفتاح الافعال"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Badr ed-Din ibn Malik"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "La clef des formations verbales"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": 921,
+                "CE": 1515
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Abrege relatif a la conjugaison",
+                "مختصر التصريف"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Izz ed-Dîn Az-Zandjânî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Les finesses bien démontrées",
+                "كتاب الدقائق المحكمه في شرح المقدمه"
+            ],
+            "date_of_book": {
+                "hijri": 922,
+                "CE": 1516
+            },
+            "author": [
+                "Aboû Yaḥyâ Zakariyyâ Al-Ansâri Asch-Schâfi'î"
+            ],
+            "date_of_author": {
+                "hijri": 926,
+                "CE": 1519
+            },
+            "book_commented_upon": [
+                "المقدمه الجزرية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Schams ed-Din Aboû 'l-Khair Mohammad ibn Mohammad ibn Mohammad Al-Djazarî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 833,
+                "CE": 1429
+            },
+            "publication": [],
+            "incipit": "الحمد لله الذي افتتح بالحمد كتابه ...... وبعد فان المقدمة المنظومة فى تجويد القرآن للشيخ شمس الدين ابى الخير محمد بن محمد بن محمد الجزري الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Commentaire sur l'Adjourroûmiyya"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

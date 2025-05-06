@@ -1,0 +1,133 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La glose sur la Kafiya et sur son commentaire moyen",
+                "كتاب الحاشيه على الكافيه وشرحها المتوسط"
+            ],
+            "date_of_book": {
+                "hijri": 960,
+                "CE": 1279
+            },
+            "author": [
+                "As-Sayyid Al-Djordjâni",
+                "السيد الجرجاني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله وله الكلمة العليا ...... وبعد فهذا تعليق على المقدمة الموسومة بالكافية فى النحو وشرحها المتوسط للعلامة السيد ركن الدين الصبرى.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 80,
+            "lines_per_page": [
+                19
+            ]
+        },
+        {
+            "book": [
+                "Les observations fines qui élucident complètement les difficultés de la Kafiya",
+                "النكت الوافيه بإيضاح مشكل الكافيه"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله ذى الالطاف الكافيه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Dissertation sur la science de la divination par les combinaisons de lettres",
+                "رسالة في علم الزايرجة وضع السبتى"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "أبو العباس احمد السبتي الخزرجي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اعلم ارشدك الله ان من الالف الى الطاء نسبة الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

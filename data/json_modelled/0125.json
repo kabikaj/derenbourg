@@ -1,0 +1,42 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'élucidation et le complément",
+                "كتاب الايضاح والتكملة"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Aboû Ali Al-Hasan ibn Ahmad ibn 'Abd el-Gaffar Al-Farisî",
+                "ابو على الحسن بن احمد بن عبد الغفار الفارسي النحوى"
+            ],
+            "date_of_author": {
+                "hijri": 535,
+                "CE": 1140
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 215,
+            "lines_per_page": [
+                14,
+                18
+            ]
+        }
+    ]
+}

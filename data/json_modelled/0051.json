@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Soyoûtî sur le Livre qui dispense l'homme intelligent, etc.",
+                "شرح مغني اللبيب للسيوطى"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Soyoûtî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Moghnî al-Labîb"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "null"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله مغني اللبيب بفضله ......  فهذا تعليق لطيف على مغني اللبيب عن كتب الاعاريب ..... سميته بالفتح القريب يبتهج به الاريب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 212,
+            "lines_per_page": [
+                33
+            ]
+        }
+    ]
+}

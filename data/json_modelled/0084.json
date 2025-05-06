@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la Schafiya d'Ibn Al-Hadjib",
+                "Dschârpardî"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "فخر الملة والدين احمد بن الحسن الجار بردی"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Schafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "نحمدك من بيده الخير والجود الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 167,
+            "lines_per_page": [
+                19
+            ]
+        }
+    ]
+}

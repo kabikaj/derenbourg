@@ -1,0 +1,35 @@
+{
+    "catalogue_entry": [
+        {
+            "book": null,
+            "date_of_book": {
+                "hijri": 698,
+                "CE": 1298
+            },
+            "author": null,
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 125,
+            "lines_per_page": [
+                20
+            ]
+        }
+    ]
+}

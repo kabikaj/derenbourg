@@ -1,0 +1,112 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Traité des propositions grammaticales",
+                "كتاب الجمل في النحو"
+            ],
+            "date_of_book": {
+                "hijri": 604,
+                "CE": 1207
+            },
+            "author": [
+                "Abot 'l-Kasim Abd er-Rahman ibn Ishalk AzZadjdjâdjî"
+            ],
+            "date_of_author": {
+                "hijri": 339,
+                "CE": 950
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "أقسام الكلام ثلاثة اسم وفعل وحرف جاء لمعنى الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 78,
+            "lines_per_page": [
+                20
+            ]
+        },
+        {
+            "book": [
+                "La langue pure",
+                "كتاب الفصيح"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "ابو العباس احمد بن يحي الكوفى المعروف بثعلب"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "قال ابو على قرأتُ هذا الكتاب على ابى عمر المطرز وعلى نفطويه وعلى ابى بكر بن الانباري قالوا كلهم حدثنا ابو العباس احمد بن يحى ثعلب اخبرنى ابو الحسن على بن عبيد الكوفي النحوى والاسدى سمعت ابا العباس احمد بن يحى النحوى يقول.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 14,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Les mots dont le premier radical peut recevoir les trois voyelles",
+                "هذا كتاب المثلث مما الف قطرب ابن احمد النحوى البصرى"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "قطرب ابن احمد النحوى البصرى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 1,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

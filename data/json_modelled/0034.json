@@ -1,0 +1,42 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le soleil des sciences et l'art de guérir le langage des Arabes des blessures",
+                "كتاب شمس العلوم ودواء كلام العرب من الكلوم"
+            ],
+            "date_of_book": {
+                "hijri": 626,
+                "CE": 1228
+            },
+            "author": [
+                "Aboû 'l-Ḥasan Naschwân ibn Sa'id l'Himyarite",
+                "صفى المجد ابي الحسن نشوان بن سعيد الحميرى"
+            ],
+            "date_of_author": {
+                "hijri": 573,
+                "CE": 1177
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "بسم الله الواحد القديم، القادر العظيم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 253,
+            "lines_per_page": [
+                27,
+                34
+            ]
+        }
+    ]
+}

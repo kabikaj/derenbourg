@@ -1,0 +1,32 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الجزء الثامن",
+                "le tome VIII"
+            ],
+            "date_of_book": null,
+            "author": null,
+            "date_of_author": null,
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "ص باب ما زيدت الميم في اوله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 248,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La cueillette de ce qui est à la portée",
+                "كتاب الجنى الدانى فى حروف المعاني"
+            ],
+            "date_of_book": {
+                "hijri": 854,
+                "CE": 1450
+            },
+            "author": [
+                "Badr ed-Dîn Al-Mourâdî",
+                "الشيخ بدر الدين المرادى المعروف بابن ام القاسم"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                null
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله بجميع محامده الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 89,
+            "lines_per_page": [
+                24
+            ]
+        }
+    ]
+}

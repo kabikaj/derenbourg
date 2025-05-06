@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Premier volume du commentaire sur l'Alfiyya d'Ibn Mâlik",
+                "السفر الاول من شرح الفية ابن ملك"
+            ],
+            "date_of_book": {
+                "hijri": 798,
+                "CE": 1395
+            },
+            "author": [
+                "Abu Ali Hassan ibn Qasim ibn Abdullah Al-Maliki Al-Muradi",
+                "ابي على حسن بن قاسم بن عبد الله المالكي المرادي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 151,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

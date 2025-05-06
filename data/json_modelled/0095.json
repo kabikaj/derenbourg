@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire moyen, commentaire sur la Kafiya",
+                "شرح المتوسط شرح الكافيه"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Rokn ed-Din"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "احمد الله على عظمة جلاله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 207,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le poème المقصورة",
+                "Commentaire de Abd el-Wahid ibn Ahmad ibn Mohammad Al-Hasant"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Abd el-Wahid ibn Ahmad ibn Mohammad Al-Hasant"
+            ],
+            "date_of_author": {
+                "hijri": 807,
+                "CE": 1404
+            },
+            "book_commented_upon": [
+                "المقصورة"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû Zaid Abd er-Rahmân ibn 'Alî ibn Şâliḥ Al-Makoûdî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 736,
+                "CE": 1335
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي خص من شاء من عباده بمزايا الايثار الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 37,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

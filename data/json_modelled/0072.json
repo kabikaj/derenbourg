@@ -1,0 +1,45 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur l'Alfiyya"
+            ],
+            "date_of_book": {
+                "hijri": 780,
+                "CE": 1378
+            },
+            "author": [
+                "Al-Mourâdî",
+                "بدر الدين ابو على حسن بن قاسم بن عبد الله بن على المرادى المالكي"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 114,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

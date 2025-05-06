@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'art d'exercer les étudiants dans la science des flexions",
+                "تمرين الطلاب فى صناعة الاعراب"
+            ],
+            "date_of_book": {
+                "hijri": 927,
+                "CE": 1520
+            },
+            "author": [
+                "Khâlid ibn Abd Allah Al-Azharî"
+            ],
+            "date_of_author": {
+                "hijri": 886,
+                "CE": 1482
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذى رفع قدر من اعرب بالشهادتين ...... فان معرفة الاعراب من الواجبات الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 187,
+            "lines_per_page": [
+                22
+            ]
+        }
+    ]
+}

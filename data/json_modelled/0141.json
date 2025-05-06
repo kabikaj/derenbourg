@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les exemples de L'élucidation et de la confirmation pour les difficultés de La collection authentique",
+                "كتاب شواهد التوضيح والتصحيح لمشكلات الجامع الصحيح"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Djamal ed-Din Aboû 'Abd Allah Mohammad ibn Abd Allah Ibn Malik At-Ta'i AlDjayyânî",
+                "جمال الدين ابي عبد الله محمد بن عبد الله بن ملك الطائي الحياني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "La collection authentique",
+                "الجامع الصحيح"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Al-Bokhârî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 775,
+                    "date_CE": 1373,
+                    "place": null
+                }
+            ],
+            "incipit": "حامدا لله رب العالمين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 66,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

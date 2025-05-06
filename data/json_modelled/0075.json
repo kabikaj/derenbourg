@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Volume contenant le commentaire d'Ibn Djâbir sur l'Alfiyya d'Ibn Mâlik",
+                "سفر فيه شرح الفية ابن ملك"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Djâbir",
+                "ابن جابر"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 119,
+            "lines_per_page": [
+                18
+            ]
+        }
+    ]
+}

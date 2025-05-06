@@ -1,0 +1,96 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le poème en vers radjaz de l'imâm ‘Alî Al-Harîrî"
+            ],
+            "date_of_book": {
+                "hijri": 874,
+                "CE": 1469
+            },
+            "author": [
+                "'Ali ibn Moḥammad ibn 'Ali Al-Koraschi",
+                "Al-Kalsadî",
+                "على بن محمد بن على القرشي الشهير بالقلصادى"
+            ],
+            "date_of_author": {
+                "hijri": 891,
+                "CE": 1486
+            },
+            "book_commented_upon": [
+                "Délices de la science des flexions",
+                "ملحة الاعراب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû Mohammad Kasim ibn Ali Al-Harirî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 516,
+                "CE": 1122
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "يقول عبيد الله تعالى على بن محمد بن على القرشي الشهير بالقلصادى البسطى ...... الحمد لله الذي اخرج الانسان من العدم ...... فالمقصود من هذا التأليف شرح ارجوزة الامام ...... على الحريري ......",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 63,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "Livre des propositions grammaticales d'Aboû 'l-Kâsim Az-Zadjdjadji"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "كتاب الجمل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû 'l-Kâsim Az-Zadjdjadji",
+                "ابو القاسم الزجاجى"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "هذا كتاب قصدنا فيه ان شاء الله الى اعراب الابيات التي استشهد بها ابو القاسم الزجاجى فى كتاب الجمل الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 58,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

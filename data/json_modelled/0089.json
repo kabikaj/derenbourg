@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Volume I du commentaire sur la Kûfiya",
+                "عن الدين عبد ...... الجزء الاول من شرح الكافية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "‘Izz ed-Din 'Abd el- Aziz Ibu Djoum'a ibn Zaid",
+                "العزيز بن جمعه بن زيد النحوى الموصلى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kûfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الازلى المنان الابدى الديان الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 272,
+            "lines_per_page": [
+                15
+            ]
+        }
+    ]
+}

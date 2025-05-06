@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le Moufaṣṣal",
+                "شرح المفصل للاندلسي"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Tâdj ed-Din Ahmad ibn Maḥmoûd ibn 'Omar Al-Djondî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Moufaṣṣal"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "ايا احمد على نعم تهللت وجوهها الصباح الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 194,
+            "lines_per_page": [
+                25,
+                29
+            ]
+        }
+    ]
+}

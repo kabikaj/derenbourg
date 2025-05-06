@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le traité grammatical d'Al-Fâḍil Al-Isfarâ'inî",
+                "الباب في النحو"
+            ],
+            "date_of_book": {
+                "hijri": 778,
+                "CE": 1377
+            },
+            "author": [
+                "قطب الدين محمد بن مسعود الفالي"
+            ],
+            "date_of_author": {
+                "hijri": 712,
+                "CE": 1312
+            },
+            "book_commented_upon": [
+                "Traité grammatical d'Al-Fâḍil Al-Isfarâ'inî"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Al-Fâḍil Al-Isfarâ'inî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله اللذي هدانا الى معرفة اعجاز القرآن الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 223,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

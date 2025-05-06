@@ -1,0 +1,39 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "كتاب معنى اللبيب عن كتب الاعاريب"
+            ],
+            "date_of_book": {
+                "hijri": 833,
+                "CE": 1429
+            },
+            "author": [
+                "جمال الدين ابو عبد الله محمد بن هشام الانصاري"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 119,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

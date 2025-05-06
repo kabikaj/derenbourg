@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Volume contenant un exemplaire complet du Redressement de la prononciation",
+                "سفر فيه جميع اصلاح المنطق"
+            ],
+            "date_of_book": {
+                "hijri": 627,
+                "CE": 1229
+            },
+            "author": [
+                "Aboû Yousouf Ya'koûb ibn Ishak As-Sikkit",
+                "ابي يوسف يعقوب بن اسحق السكيت"
+            ],
+            "date_of_author": {
+                "hijri": 244,
+                "CE": 858
+            },
+            "book_commented_upon": [
+                "Redressement de la prononciation"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Abot 'Ali Ismail ibn Al-Kasim AlBagdadi"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 356,
+                "CE": 966
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "املاء ابي يوسف; ثم, à la ligne suivante: اخبرنا ابو بكر قال حدثني ابى قال حدثنا ابو محمد عبد الله بن رستم قال قال ابو يوسف يعقوب بن اسحق السكست (sic) هذا باب فعل وفعل باختلاف المعنى الحمل ما كان في بطن اوعلى رأس شجرة وجمعه أحمال والجمل ما حمل على ظهر او على رأس الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

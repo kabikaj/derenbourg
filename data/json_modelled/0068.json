@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La perle brillante; commentaire sur l' Alfiyya",
+                "الدرة المضلة يي في شرح الالفية"
+            ],
+            "date_of_book": {
+                "hijri": 810,
+                "CE": 1407
+            },
+            "author": [
+                "ابو اسحاق ابرهيم بن الشيخ",
+                "ابي عمران موسى الأنباسي"
+            ],
+            "date_of_author": {
+                "hijri": 765,
+                "CE": 1363
+            },
+            "book_commented_upon": [
+                "Aliyya",
+                "الالفية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Malik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 259,
+            "lines_per_page": [
+                26
+            ]
+        }
+    ]
+}

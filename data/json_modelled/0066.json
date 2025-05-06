@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Tome Ier du commentaire",
+                "شرح الشيخ ...... جمال الدين ابى عبد الله محمد ابن عبد الله ابن ملك الطائى الاندلسي"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Djamal ed-Din Abou Abd Allah Mohammad ibn 'Abd Allâh Ibn Mâlik At-Ta'i",
+                "جمال الدين ابى عبد الله محمد ابن عبد الله ابن ملك الطائى الاندلسي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "L'art de faciliter les enseignements utiles et de parfaire les études relatives à la langue arabe",
+                "تسهيل الفوائد وتكميل المقاصد في العربية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 111,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

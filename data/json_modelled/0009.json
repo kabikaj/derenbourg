@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur l'Alfiyya relative à la science de la langue arabe",
+                "كتاب شرح الالفية في علم العربية"
+            ],
+            "date_of_book": {
+                "hijri": 703,
+                "CE": 1303
+            },
+            "author": [
+                "عبد العزيز ابن جمعة بن زيد النحوى الموصلى",
+                "Abd el-Azîz Ibn Djoum' a ibn Zaid"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Yahyâ ibn Mou'ț ibn Abd en-Noûr"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله بارى النسم ومفيض النعم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 306,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Supercommentaire d'Al-Hasan ibn Yousouf ibn Mahdî",
+                "Az-Zayyatî"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Al-Hasan ibn Yousouf ibn Mahdî",
+                "Az-Zayyatî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "commentaire d'Aboû Yousouf Ya'koûb ibn Sa'id ibn Ya'kotb Al-Miklatî",
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Malik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله المنفرد بتصريف الأفعال الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 91,
+            "lines_per_page": [
+                19
+            ]
+        }
+    ]
+}

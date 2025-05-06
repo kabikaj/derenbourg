@@ -1,0 +1,95 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire abrégé d'Al-Makoûdî sur l'Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Al-Makoûdî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 208,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "Le plus clair des chemins vers l'Alfiyya d'Ibn Mâlik",
+                "اوضح المسالك الى الفية بن ملك"
+            ],
+            "date_of_book": {
+                "hijri": 984,
+                "CE": 1576
+            },
+            "author": [
+                "Aboû Mohammad 'Abd Allâh Djamâl ed-Dîn ibn Yousouf Ibn Hischâm AlAnşârî"
+            ],
+            "date_of_author": {
+                "hijri": 762,
+                "CE": 1360
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1260,
+                    "date_CE": 1832,
+                    "place": "Calcutta"
+                }
+            ],
+            "incipit": "الحمد لله رب العلمين اما بعد حمد الله مستحق الحمد وملهمه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 133,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

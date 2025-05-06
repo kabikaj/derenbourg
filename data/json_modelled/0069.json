@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Livre initiale: La beauté charmante",
+                "كتاب البهجة المرضية فى شرح الالفية"
+            ],
+            "date_of_book": {
+                "hijri": 960,
+                "CE": 1552
+            },
+            "author": [
+                "Abd er-Raļuman Djalál ed-Din As-Soyoûți",
+                "عبد الرحمن جلال الدين السيوطي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya",
+                "الالفية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "احمدك اللهم على نعمك وآلائك الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 70,
+            "lines_per_page": [
+                29
+            ]
+        }
+    ]
+}

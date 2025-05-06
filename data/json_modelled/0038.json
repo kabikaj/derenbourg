@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les larmes répandues",
+                "كتاب همع الهوامع في شرح جمع الجوامع"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Djalal ed-Din As-Soyoûtt",
+                "جلال الدين عبد الرحمن بن ابى بكر السيوطى الشافعي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Les collections formées",
+                "جمع الجوامع"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "سبحانك لا احصى ثنا عليك انت كا اثنيت على نفسك الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 296,
+            "lines_per_page": [
+                34
+            ]
+        }
+    ]
+}

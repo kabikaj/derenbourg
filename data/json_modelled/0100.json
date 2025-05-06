@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Glose du shaikh Nasir ed-Din Al-Lokânî sur le Tauḍih",
+                "حاشية الشيخ ناصر الدين اللقاني على توضيح بن هشام"
+            ],
+            "date_of_book": {
+                "hijri": 976,
+                "CE": 1568
+            },
+            "author": [
+                "Nasir ed-Din Al-Lokânî",
+                "اللقاني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Élucidation d'Ibn Hischâm",
+                "توضيح ابن هشام"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Djamal ed-Din Aboû Mohammad Abd Allah ibn Yoûsouf",
+                "ابن هشام"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قوله الكلام بهذه الحصور أى هذا اللفظ بدليل قول عبارة الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 70,
+            "lines_per_page": [
+                29
+            ]
+        }
+    ]
+}

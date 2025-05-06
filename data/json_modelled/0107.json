@@ -1,0 +1,328 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'improvisation au sujet des principes de la syntaxe",
+                "الاقتراح فى علم اصول النحو"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Soyoûtî",
+                "عبد الرحمن بن ابى بكر السيوطى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "يقول ...... عبد الرحمن بن ابى بكر السيوطى الحمد لله الذي ارشدنا لابتكار هذا النمط وتفضل بالعفو عما صدر عن العبد ......",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 141,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "L'enacinement de la construction; causes qui rendent le mot invariable",
+                "تأصيل البنا فى تعليل البنا"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "عبيد الله محمد بن عبد الله الزركشى الشافعي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "La Schafiya sur les flexions",
+                "كتاب الشافية فى التصريف"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Petit traité de l'orthographe arabe"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الخطّ تصوير اللفظ بحروف هجائه (sic) الا اسماء الحروف اذا قصد المسمى نحو قولك اكتب جيم عين فا را فانما هذه الصورة جعفر الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "L'art d'atteindre les hauteurs dans l'emploi de la particule lâ",
+                "كتاب نيل العلا فى العطف بلا"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "As-Sobkî",
+                "تقى الدين على بن عبد الكافى السبكى"
+            ],
+            "date_of_author": {
+                "hijri": 756,
+                "CE": 1355
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "سالت اكرمك الله عن قام رجل لا زيد هل يصح هذا التركيب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Le préféré, sur la question du collyre",
+                "كتاب المختار في مسئلة الكحل"
+            ],
+            "date_of_book": {
+                "hijri": 874,
+                "CE": 1468
+            },
+            "author": [
+                "Mohyî ed-Dîn Al-Kâfiyadjî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله الذى بعث رسوله بالمعجزات الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "L'allusion par signes aux secrets sur la question du collyre",
+                "كتاب رمز الاسرار فى مسئلة الكحل"
+            ],
+            "date_of_book": {
+                "hijri": 874,
+                "CE": 1469
+            },
+            "author": [
+                "Mohyî ed-Dîn Al-Kâfiyadjî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله على جزيل نواله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Délices de l'Occident et de l'Orient",
+                "كتاب نزهة المغرب والمشرق"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Mohyî ed-Dîn Al-Kâfiyadjî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "هذا كتاب يشتمل على سؤال وجواب تبصرة وذكرى لاولى الالباب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Dissertation sur la nécessité de donner le pouvoir au plus digne"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لوليه والصلوة على نبيه وبعد فهذه رسالة معمولة في تحقيق التغليب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

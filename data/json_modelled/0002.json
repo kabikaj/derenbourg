@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Introduction à la grammaire",
+                "المقدمة الجزولية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Abou Moûsà 'Îsa ibn 'Abd al-Aziz Al-Djouzoûlî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Les dictées",
+                "الامالى"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Schaloûbînî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "باب هذا هو باب لا النافية ولا بد من مقدمة بين يدى الباب وحينئذ نفسر الفاظه فنقول لا تخلو لا من ان تدخل على اسم معرفة او على نكرة",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 142,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

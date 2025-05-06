@@ -1,0 +1,45 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "شرح التوضيح للعلامة الشيخ بدر الدين خالد الوقار"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "الشيخ بدر الدين خالد الوقار"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "Même commencement.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique très serrée",
+            "number_of_folios": 359,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

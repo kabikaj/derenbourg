@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Glose de 'Isâm ed-Din Ibrahim sur le commentaire de Noûr ed-Din 'Abd er-Rahmân Al-Djâmî sur la Kâfiya",
+                "حاشية عصام الملة والدين ابراهيم على شرح نور الدين عبد الرحمن الجامى على الكافية للعلامة ابن الحاجب"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "'Isâm ed-Dîn Ibrâhîm ibn Moḥammad Al-Isfarâ'inî",
+                "عصام الملة والدين ابراهيم"
+            ],
+            "date_of_author": {
+                "hijri": 943,
+                "CE": 1536
+            },
+            "book_commented_upon": [
+                "Kâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Djâmî",
+                "نور الدين عبد الرحمن الجامى"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 898,
+                "CE": 1492
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد هو الوصف بالجميل على الجميل الاختيارى من العلم او غيره الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 214,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

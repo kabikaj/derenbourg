@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur l'Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "شمس الدين ابو عبد الله محمد بن احمد بن جابر الهوارى الأندلسي المرسى المالكي"
+            ],
+            "date_of_author": {
+                "hijri": 780,
+                "CE": 1378
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي ارسل الينا اشرف الرسل باشرف لسان الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 189,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le réconfortant; commentaire sur L'exposition et Le supplément",
+                "الشافى من شرح الايضاح والتكمله"
+            ],
+            "date_of_book": {
+                "hijri": 604,
+                "CE": 1207
+            },
+            "author": [
+                "Abd el-Ḳâhir Al-Djordjânî",
+                "عبد القاهر الجرجانى",
+                "ابو بكر عبد القاهر ابن عبد الرحمن الجرجاني"
+            ],
+            "date_of_author": {
+                "hijri": 471,
+                "CE": 1078
+            },
+            "book_commented_upon": [
+                "L'exposition",
+                "التكمله"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Abou Ali Hasan Al-Farisî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله رب العالمين الذي جعل حمده فاتحة كتابه وخاتمة دعوى اوليائه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 337,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

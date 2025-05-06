@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "تأصيل البنا في تعليل البنا"
+            ],
+            "date_of_book": {
+                "hijri": 774,
+                "CE": 1372
+            },
+            "author": [
+                "'Obaid Allah Mohammad Az-Zarkaschi"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyga"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Malik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "كاتبه العبد الفقير الى رحمة الله",
+            "explicit": "علقها مؤلفه",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 18,
+            "lines_per_page": [
+                20
+            ]
+        }
+    ]
+}

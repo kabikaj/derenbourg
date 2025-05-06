@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Complément à quelques unes des propositions grammaticales d'Aboû 'I-Kâsim Az-Zadjdjâdjî",
+                "هذا تقييد على بعض جمل ابى القاسم الزجاجى"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Aboû Sa'id Faradj ibn Kâsim ibn Loubb",
+                "فرج بن قاسم بن لب"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Propositions grammaticales d'Aboû 'I-Kâsim Az-Zadjdjâdjî"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû 'I-Kâsim Az-Zadjdjâdjî",
+                "ابو القاسم الزجاجى"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الكلام هو اللفظ المركب وجودا او تقديرا الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 180,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

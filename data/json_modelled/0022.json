@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le poème grammatical d'Ibn Mou't, intitulé Alfiyya",
+                "شرح الدرّة الالفية"
+            ],
+            "date_of_book": {
+                "hijri": 644,
+                "CE": 1246
+            },
+            "author": [
+                "Ibn Al-Khabbâz",
+                "شمس الدين ابى العباس احمد بن الحسين بن احمد النحوى الموصلي المعروف بابن الخباز"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mou't",
+                "يحيى بن معط بن عبد النور"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله على ما أفاض علينا من ملابس آلائه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 154,
+            "lines_per_page": [
+                22
+            ]
+        }
+    ]
+}

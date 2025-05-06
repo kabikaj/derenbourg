@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "كتاب تسهيل الفوائد وتكميل المقاصد"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "جمال الدين ابى عبد الله محمد بن عبد الله بن ملك الطائى الاندلسي الحياني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                null
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 84,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

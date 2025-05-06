@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur un traité de grammaire"
+            ],
+            "date_of_book": {
+                "hijri": 831,
+                "CE": 1427
+            },
+            "author": [
+                "Abu Abdullah Muhammad Shams al-Din",
+                "محمد شمس الدين"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                null
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الكلمة قول مفرد وهى اسم وفعل وحرف وهو ضربان معرب وهو ما يتغير اخره بسبب ما يدخل عليه من العوامل ومبنى وهو بخلافه.",
+            "explicit": "والاسم بالتثنية كفتيين وعصوين.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 233,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La supériorité reconnue sur ce qui est bien divisé",
+                "الجزء الثاني من كتاب المفضّل على المفصل في درايه"
+            ],
+            "date_of_book": {
+                "hijri": 647,
+                "CE": 1249
+            },
+            "author": [
+                "كمال الدين عبد الواحد ابن عبد الكريم بن خلف الانصارى",
+                "Ḳâmal ed-Din Abd el-Wahid ibn 'Abd elKarim ibn Khalaf Al-Ansari"
+            ],
+            "date_of_author": {
+                "hijri": 651,
+                "CE": 1253
+            },
+            "book_commented_upon": [
+                "المفصل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "فصل قال سيبويه وهذه حجج سمعت من العرب يقولون اللهم ضبعا ونبا الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 177,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

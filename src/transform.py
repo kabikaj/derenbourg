@@ -6,7 +6,7 @@
 #
 # usage:
 #   $ python3 transform.py ../data/text_corrected ../data/json_modelled
-#     --service openai --ini 1 --end 80
+#     --service openai --ini 1 --end 150
 #
 #######################################################################
 

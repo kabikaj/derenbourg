@@ -1,0 +1,34 @@
+{
+    "catalogue_entry": [
+        {
+            "book": null,
+            "date_of_book": {
+                "hijri": 752,
+                "CE": 1351
+            },
+            "author": [
+                "سراج الدين ابو محمد عبد الله بن يوسف بن احمد بن عبد الله بن هشام الانصاري"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 180,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

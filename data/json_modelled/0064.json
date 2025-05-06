@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'art de faciliter les enseignements utiles et de parfaire les études",
+                "كتاب تسهيل الفوائد وتكميل المقاصد"
+            ],
+            "date_of_book": {
+                "hijri": 794,
+                "CE": 1391
+            },
+            "author": [
+                "Djamal ed-Dîn Aboû 'Abd Allah Mohammad ibn Abd Allah Ibn Mâlik At-Ta'i Al-Djayyânî",
+                "جمال الدین ابو عبد الله محمد بن عبد الله بن مالك الطاءى الأندلسي الحياني نزيل دمشق"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Traité grammatical d'Ibn Mâlik"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "حامدا لله رب العالمين ومصليا على محمد سيد المرسلين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 69,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

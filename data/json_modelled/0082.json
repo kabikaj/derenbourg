@@ -1,0 +1,61 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les enseignements utiles pour Diyâ ed-Dîn",
+                "الفوائد الضيائية"
+            ],
+            "date_of_book": {
+                "hijri": 986,
+                "CE": 1578
+            },
+            "author": [
+                "Djâmî",
+                "المولى عبد الرحمن بن احمد نور الدين الجامى"
+            ],
+            "date_of_author": {
+                "hijri": 898,
+                "CE": 1492
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1233,
+                    "date_CE": 1817,
+                    "place": "Calcutta"
+                },
+                {
+                    "date_hijri": 1235,
+                    "date_CE": 1819,
+                    "place": "Constantinople"
+                },
+                {
+                    "date_hijri": 1265,
+                    "date_CE": 1848,
+                    "place": "Lakhnau"
+                }
+            ],
+            "incipit": "أحمد لموليه والصلاة على نبيه ...... اما بعد فهذه فوائد وافية لحل مشكلات الكافية للعلامة ...... ابن الحاجب ...... نظمتها في سلك التقرير وسمط التحرير للولد العزيز ضياء الدين يوسف ...... وسميتها بالفوائد الضيائية الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 134,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

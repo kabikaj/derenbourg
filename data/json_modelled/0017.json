@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la Kâfiya",
+                "كافية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "ابراهيم المستمى بعصام الدين",
+                "ابن محمد بن عربشاه الاسفراني"
+            ],
+            "date_of_author": {
+                "hijri": 943,
+                "CE": 1356
+            },
+            "book_commented_upon": [
+                "Kâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1256,
+                    "date_CE": 1840,
+                    "place": "Constantinople"
+                }
+            ],
+            "incipit": "احمد الله على ما الهمنى ان عصاميا لا عظاميا الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 283,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

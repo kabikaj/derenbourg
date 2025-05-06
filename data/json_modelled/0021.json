@@ -1,0 +1,45 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "تحفة الشافية في شرح الكافية",
+                "Commentaire sur la Kâfiya d'Ibn Al-Hâdjib"
+            ],
+            "date_of_book": {
+                "hijri": 859,
+                "CE": 1455
+            },
+            "author": null,
+            "date_of_author": null,
+            "book_commented_upon": [
+                "Kâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي خلق الانسان وعلمه البيان الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 263,
+            "lines_per_page": [
+                30
+            ]
+        }
+    ]
+}

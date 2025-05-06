@@ -1,0 +1,125 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur l'Adjonurroûmiyya",
+                "كتاب شرح الاجرومية"
+            ],
+            "date_of_book": {
+                "hijri": 887,
+                "CE": 1482
+            },
+            "author": [
+                "Khalid ibn 'Abd Allah ibn Abi Bakr Al-Azhari",
+                "خالد بن عبد الله ابن ابي بكر الازهرى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Adjonurroûmiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1259,
+                    "date_CE": 1843,
+                    "place": "Boulak"
+                },
+                {
+                    "date_hijri": 1290,
+                    "date_CE": 1874,
+                    "place": "Boûlak"
+                }
+            ],
+            "incipit": "الحمد لله رافع مقام المنتصيين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 86,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book": {
+                "hijri": 1004,
+                "CE": 1595
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": 1833,
+                    "place": "Paris, London"
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Ceci est le grand traité des regents grammaticaux",
+                "هذا كتاب العوامل الكبرى"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "'Abd al-Kahir Al-Djordjânî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

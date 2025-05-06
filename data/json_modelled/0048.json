@@ -1,0 +1,47 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Livre intitulé: Celui qui dispense l'homme intelligent de tout autre livre sur les flexions finales",
+                "كتاب مغني اللبيب عن كتب الاعاريب"
+            ],
+            "date_of_book": {
+                "hijri": 749,
+                "CE": 1348
+            },
+            "author": [
+                "Djamâl ed-Dîn Abd Allah ibn Yoûsouf ibn Alhmad ibn 'Abd Allah Ibn Hischâm Al-Ansari Al-Hanbali",
+                "جمال الدين عبد الله بن يوسف بن احمد بن عبد الله بن هشام الانصارى الحنبلي"
+            ],
+            "date_of_author": {
+                "hijri": 756,
+                "CE": 1355
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1284,
+                    "date_CE": 1867,
+                    "place": "Boulak"
+                }
+            ],
+            "incipit": "اما بعد حمد اللهعلى افضاله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 165,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

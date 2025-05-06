@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'exposition de ce qui est caché dans le Tauḍîḥ",
+                "الجزء الاول من التصريح بمضمون التوضيح"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Khâlid Al-Azharî",
+                "خالد الازهرى"
+            ],
+            "date_of_author": {
+                "hijri": 890,
+                "CE": 1485
+            },
+            "book_commented_upon": [
+                "Tauḍîḥ",
+                "أوضح المسالك الى الفية ابن مالك"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Hischâm",
+                "عبد الله بن يوسف بن هشام الانصاري"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الملهم لتحميده ...... وبعد فيقول العبد ...... خالد بن عبد الله الازهرى ...... ان الشرح المشهور بالتوضيح على الفية ابن مالك في علم النحو للشيخ ...... جمال الدين ابى محمد عبد الله بن يوسف بن هشام الانصاري ...... فى غاية حسن الوقع عند جميع الاخوان الخ;",
+            "explicit": "يتلوه الجزء الثانى من اول باب ابنية الفاعلين",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 278,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

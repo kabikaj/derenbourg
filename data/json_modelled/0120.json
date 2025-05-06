@@ -1,0 +1,115 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Ceci est un livre sur la science de la langue arabe",
+                "هذا كتاب في علم العربية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Abî 'Abbâd le Yamanite",
+                "ابن ابي عباد اليماني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله حمدا يوجب لنا المزيد من آلائه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 38,
+            "lines_per_page": [
+                19
+            ]
+        },
+        {
+            "book": [
+                "Commentaire anonyme sur la Schâfiya d'Ibn Al-Hâdjib"
+            ],
+            "date_of_book": {
+                "hijri": 1005,
+                "CE": 1596
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Schâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "فاقول لما كان من الواجب على كل طالب لشيء ان يتصور ذلك الشيء الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 1,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Livre sur la partie de l'Adjourroûmiyya relative aux flexions",
+                "كتاب اعراب الاجروميه في علم العربيه"
+            ],
+            "date_of_book": {
+                "hijri": 1004,
+                "CE": 1595
+            },
+            "author": [
+                "Khâlid ibn 'Abd Allâh ibn Abî Bakr Al-Azharî",
+                "خالد بن عبد الله بن ابى بكر الازهرى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "احمد الله تعالى على ما انعم واشكره على ما افهم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 115,
+            "lines_per_page": [
+                19
+            ]
+        }
+    ]
+}

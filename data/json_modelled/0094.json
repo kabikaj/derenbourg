@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la Kâfiya",
+                "هذا الشرح شرح الكافية فى علم النحو المستمى بكبير"
+            ],
+            "date_of_book": {
+                "hijri": 683,
+                "CE": 1284
+            },
+            "author": [
+                "Rokn ed-Din Hasan ibn Mohammad Al-Astarâbâdhi Al-Hasanî"
+            ],
+            "date_of_author": {
+                "hijri": 717,
+                "CE": 1316
+            },
+            "book_commented_upon": [
+                "Kâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله المنفرد بالعزة والجيروت الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 121,
+            "lines_per_page": [
+                30
+            ]
+        }
+    ]
+}

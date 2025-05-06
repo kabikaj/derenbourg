@@ -1,0 +1,82 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les secrets de la langue arabe",
+                "كتاب اسرار العربية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Kamal al-Din Abu al-Barakat ibn Abi Said ibn al-Anbari",
+                "کمال الدین ابو البركات بن ابى سعيد بن الانباري"
+            ],
+            "date_of_author": {
+                "hijri": 577,
+                "CE": 1181
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله كاشف الغطا ومانح العطا ...... فقد ذكرت في هذا الكتاب الموسوم باسرار العربية كثيرا من مذاهب النحويين المتقدمين والمتأخرين من البصريين والكوفيين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 112,
+            "lines_per_page": [
+                19
+            ]
+        },
+        {
+            "book": [
+                "La perle grammaticale",
+                "كتاب الدرّة النحوية فى شرح الجروميه"
+            ],
+            "date_of_book": {
+                "hijri": 678,
+                "CE": 1279
+            },
+            "author": [
+                "Mohammed ibn Ahmad ibn Ya'la al-Hasani",
+                "محمد بن احمد بن يعلى الحسنى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Adjourroûmiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Adjourroum"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله رب العالمين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 58,
+            "lines_per_page": [
+                19
+            ]
+        }
+    ]
+}

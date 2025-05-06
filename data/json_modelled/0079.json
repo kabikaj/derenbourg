@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "تحقيق المقال وتسهيل المنال في شرح لامية الافعال",
+                "Commentaire sur la لامية الافعال"
+            ],
+            "date_of_book": {
+                "hijri": 871,
+                "CE": 1466
+            },
+            "author": [
+                "ابو عبد الله محمد بن العباس"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Poëme rimant en lâm sur les verbes",
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قال مؤلّفه ...... وكان الفراغ من تخليصه من میبینه ...... عام ٨٥٠ ...... وكان الفراغ من من نسخه مبيضة المؤلف ...... في ...... عام ٨٥١.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 62,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

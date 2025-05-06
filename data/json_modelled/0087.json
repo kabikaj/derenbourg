@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Nadjm ed-Din Sa'id sur la Kafiya",
+                "نجم السعيد في شرح الكافيه"
+            ],
+            "date_of_book": {
+                "hijri": 774,
+                "CE": 1372
+            },
+            "author": [
+                "Nadjm ed-Din Sa'id"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي دعا الى كلمة الحق بالعامه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 339,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

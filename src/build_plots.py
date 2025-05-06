@@ -1,7 +1,7 @@
-
 import math
 import pandas as pd
 import ujson as json
+import statistics
 import plotly.graph_objects as go
 import plotly.express as px
 from plotly.subplots import make_subplots
@@ -13,59 +13,54 @@ with open("../data/app_data.json") as fp:
 sample_data = []
 
 for obj in data:
-
     try:
-        date_of_book_author = int(obj["author_date_hijri"])
-    except ValueError:
+        date_of_book_author = int(obj["date_of_author"]["hijri"]) if obj["date_of_author"]["hijri"] else None
+    except (ValueError, TypeError):
         date_of_book_author = None
 
     try:
-        date_of_manuscript_author = int(obj["date_of_author_of_original_text_commented_upon_hijri"])
-    except ValueError:
+        date_of_manuscript_author = int(obj["date_of_author_of_book_commented_upon"]["hijri"]) if obj["date_of_author_of_book_commented_upon"]["hijri"] else None
+    except (ValueError, TypeError):
         date_of_manuscript_author = None
 
     try:
-        date_of_manuscript = int(obj["date_of_original_text_commented_upon_hijri"])
-    except ValueError:
+        date_of_manuscript = int(obj["date_of_book_commented_upon"]["hijri"]) if obj["date_of_book_commented_upon"]["hijri"] else None
+    except (ValueError, TypeError):
         date_of_manuscript = None
 
     try:
-        date_of_copy = int(obj["date_of_copying_hijri"])
-    except ValueError:
+        date_of_copy = int(obj["date_of_book"]["hijri"]) if obj["date_of_book"]["hijri"] else None
+    except (ValueError, TypeError):
         date_of_copy = None
 
-    try:
-        date_of_printing = int(obj["date_of_printing_hijri"])
-    except ValueError:
-        date_of_printing = None
-
+    lines_per_page = list(filter(None, obj["lines_per_page"])) if obj["lines_per_page"] else None
+    lines_per_page = int(statistics.mean(lines_per_page)) if lines_per_page else None
+    
     script = obj["script"]
     if script == "Asiatique très soignée":
         script = "Asiatique"
-    elif script == "Magrobine":
-        script = "Magrébine"
+    if script == "Asiatique très serrée":
+        script = "Asiatique"
 
-    # make the difference in lines per page much bigger
-    # try:
-    #     lines_per_page = float(obj["layaout_or_lines_per_page"])
-    #     if lines_per_page > 0:
-    #         lines_per_page = lines_per_page ** 2  # Square the value
-    #     else:
-    #         lines_per_page = None
-    # except (ValueError, KeyError):
-    #     lines_per_page = None
-
-    lines_per_page = obj["layaout_or_lines_per_page"]
+    printing_date = None
+    printing_place = None
+    if obj["publication"] and len(obj["publication"]) > 0:
+        try:
+            printing_date = int(obj["publication"][0]["date_hijri"]) if obj["publication"][0]["date_hijri"] else None
+            printing_place = obj["publication"][0]["place"]
+        except (ValueError, TypeError, KeyError):
+            printing_date = None
+            printing_place = None
     
     sample_data.append({
-        "date_of_book_author": date_of_book_author,
+        "date_of_author": date_of_book_author,
         "date_of_manuscript_author": date_of_manuscript_author,
-        "date_of_manuscript": date_of_manuscript,
-        "date_of_copy": date_of_copy,
-        "date_of_printing": date_of_printing,
-        "place_of_printing": obj["place_of_printing"],
+        "date_of_book_commented_upon": date_of_manuscript,
+        "date_of_book": date_of_copy,
+        "date_of_printing": printing_date,
+        "place_of_printing": printing_place,
         "material": obj["material"],
-        "script": script,
+        "script": obj["script"],
         "number_of_folios": obj["number_of_folios"],
         "lines_per_page": lines_per_page,
     })
@@ -74,9 +69,9 @@ for obj in data:
 df = pd.DataFrame(sample_data)
 
 script_colors = {
-    "Asiatique": "#FFFF00",  # Yellow
-    "Magrébine": "#DDA0DD",  # Light Purple
-    "Orientale": "#90EE90",  # Light Green
+    "Asiatique": "#FFFF00",  # yellow
+    "Magrébine": "#DDA0DD",  # light Purple
+    "Orientale": "#90EE90",  # light Green
 }
 
 
@@ -84,17 +79,10 @@ fig = make_subplots(
     rows=3,
     cols=1,
     subplot_titles=[
-        "Book Author Date", 
-        # "Manuscript Author Date",
-        # "Manuscript Date", 
-        "Copy Date",
-        "Printing Date",
+        "Date of book compared to number of folia and script",
+        "Date and place of publication compared to number of folia and script",
+        "Lines per page and number of folia compared to script"
     ],
-    # specs=[
-    #     [{"type": "scatter"}, {"type": "scatter"}],
-    #     [{"type": "scatter"}, {"type": "scatter"}],
-    #     [{"type": "scatter"}, {"type": "scatter"}]
-    # ],
     specs=[
         [{"type": "scatter"}],
         [{"type": "scatter"}],
@@ -105,11 +93,8 @@ fig = make_subplots(
 )
 
 date_types = [
-    "date_of_book_author",
-    # "date_of_manuscript_author",
-    # "date_of_manuscript",
-    "date_of_copy",
-    "date_of_printing"
+    "date_of_book",     # data key of 1st plot
+    "date_of_printing"  # data key of 2nd plot
 ]
 
 # positions for each subplot
@@ -118,10 +103,9 @@ positions = [(1,1), (2,1), (3,1)]
 for i, date_type in enumerate(date_types):
     row, col = positions[i]
     
-    # Sort the dataframe by the current date type for clean lines
+    # sort the dataframe by the current date type for clean lines
     df_sorted = df.sort_values(by=date_type)
     
-    # Add folios line
     fig.add_trace(
         go.Scatter(
             x=df_sorted[date_type],
@@ -130,47 +114,34 @@ for i, date_type in enumerate(date_types):
             name='Number of Folios',
             line=dict(color='blue'),
             legendgroup='folios',
-            showlegend=(i==0)  # only show legend for first subplot
+            # showlegend=(i==0)  # only show legend for first subplot
         ),
         row=row, col=col
     )
     
-    # Add lines per page line (on secondary y-axis)
-    fig.add_trace(
-        go.Scatter(
-            x=df_sorted[date_type],
-            y=df_sorted["lines_per_page"],
-            mode='lines+markers',
-            name='Lines per Page',
-            line=dict(color='red'),
-            legendgroup='lines',
-            showlegend=(i==0)  # only show legend for first subplot
-        ),
-        row=row, col=col
-    )
-    
-    # Add place annotations for printing date
+    # add places of printing
     if date_type == "date_of_printing":
         for _, row_data in df_sorted.iterrows():
-            fig.add_annotation(
-                x=row_data[date_type],
-                y=row_data["number_of_folios"],
-                text=row_data["place_of_printing"],
-                showarrow=True,
-                arrowhead=1,
-                ax=0,
-                ay=-40,
-                row=row,
-                col=col
-            )
+            if row_data["place_of_printing"]:
+                fig.add_annotation(
+                    x=row_data[date_type],
+                    y=row_data["number_of_folios"],
+                    text=row_data["place_of_printing"],
+                    showarrow=True,
+                    arrowhead=1,
+                    ax=0,
+                    ay=-40,
+                    row=row,
+                    col=col
+                )
     
-    # Add secondary y-axis for lines per page
-    fig.update_yaxes(title_text="Num. Folios / Layout", row=row, col=col)
+    # update y-axis title
+    fig.update_yaxes(title_text="Number of Folios", row=row, col=col)
     
-    # Update x-axis title
-    fig.update_xaxes(title_text="Year", row=row, col=col)
+    # update x-axis title
+    fig.update_xaxes(title_text="Hijri Year", row=row, col=col)
 
-    # Add big dots indicating script class
+    # add big dots indicating script
     for _, row_data in df_sorted.iterrows():
         fig.add_trace(
             go.Scatter(
@@ -184,32 +155,71 @@ for i, date_type in enumerate(date_types):
                 ),
                 name=row_data["script"],
                 legendgroup=row_data["script"],
-                showlegend=False  # We'll add the legend manually
+                showlegend=False
             ),
             row=row, col=col
         )
 
+
+########################
+# third subplot
+########################
+
+row, col = positions[2]
+
+# create color mapping for scripts
+df['script_color'] = df['script'].map(script_colors)
+
+fig.add_trace(
+    go.Scatter(
+        y=df["lines_per_page"],
+        x=df["number_of_folios"],
+        mode='markers',
+        marker=dict(
+            color=df['script_color'],  # use the mapped colors
+            size=8,
+            line=dict(width=1, color='DarkSlateGrey')
+        ),
+        name='Script Types',
+        hovertext=df.apply(lambda row: f"Script: {row['script']}<br>Material: {row['material']}<br>Place: {row['place_of_printing']}", axis=1),
+        hoverinfo='text+x+y',
+        showlegend=True,
+        legendgroup='scripts'
+    ),
+    row=row, col=col
+)
+
+# update axes for the third subplot
+fig.update_xaxes(title_text="Number of Folios", row=row, col=col)
+fig.update_yaxes(title_text="Lines per Page", row=row, col=col)
+
+# add script legend items
 for script, color in script_colors.items():
     fig.add_trace(
         go.Scatter(
-            x=[None],  # No actual data
+            x=[None],
             y=[None],
             mode='markers',
             marker=dict(size=14, color=color, line=dict(width=1, color='DarkSlateGrey')),
             name=script,
-            legendgroup='scripts',  # Group them under the same legend group
-            showlegend=True  # Make sure they appear in the legend
+            legendgroup='scripts',
+            showlegend=True
         )
     )
 
-# Update layout
+
 fig.update_layout(
-    title_text="<b>Manuscript Analysis Dashboard</b>",
+    title_text="<b>Sample of Manuscript Plottings</b>",
+    height=900
 )
 
-# Hide axes for the legend subplot
-fig.update_xaxes(visible=False, row=3, col=2)
-fig.update_yaxes(visible=False, row=3, col=2)
+# rearrange date ranges in plots
+fig.update_xaxes(range=[500, 1050], row=1, col=1)
+fig.update_xaxes(range=[1230, 1285], row=2, col=1)
+fig.update_xaxes(range=[None, 500], row=3, col=1)
 
-fig.show()
-# combined_fig.write_html("sales_report.html")  # Save as standalone HTML
+
+# fig.show()
+
+# save as standalone html
+fig.write_html("html/plot.html")

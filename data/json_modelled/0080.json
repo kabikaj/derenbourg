@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Gloses sur la Kafiya d'Ibn Al-Hadjib",
+                "حواش"
+            ],
+            "date_of_book": {
+                "hijri": 958,
+                "CE": 1551
+            },
+            "author": [
+                "ابو المفاخر شهاب الدين بن شمس الدين بن عمر الدواني الدولتابادى ثم الهندى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "نحمد الله نحو آلائه الوافيه ...... وبعد وقد صنف طبقات الادباء والكتاب تصانيف في علم الاعراب ...... لكن الشيخ ...... ابا المفاخر شهاب الدين بن شمس الدين بن عمر الدوانى الدولتابادى ثم الهندي ...... عمل حواشى على الرسالة المشهورة فى الاعراب لشيخ الصناعة ...... ابن الحاجب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 116,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

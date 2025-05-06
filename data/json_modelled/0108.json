@@ -1,0 +1,87 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Traité des propositions grammaticales",
+                "الجمل في النحو"
+            ],
+            "date_of_book": {
+                "hijri": 916,
+                "CE": 1510
+            },
+            "author": [
+                "Aboû 'l-Kâsim 'Abd er-Rahmân ibn Ishâk Az-Zadjdjâdjî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 127,
+            "lines_per_page": [
+                20
+            ]
+        },
+        {
+            "book": [
+                "Commentaire anonyme sur l'Adjourroûmiyya"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Adjourroûmiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذى نور قلوبنا بمعرفة الادب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 0,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

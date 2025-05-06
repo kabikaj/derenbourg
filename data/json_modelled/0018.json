@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Radî ed-Dîn Mohammad Al-Astarâbâdht sur la Kâfiya",
+                "الرّضى على الكافية"
+            ],
+            "date_of_book": {
+                "hijri": 686,
+                "CE": 1287
+            },
+            "author": [
+                "Radî ed-Dîn Mohammad Al-Astarâbâdht"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Kâfiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي جلّت آلاؤه.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 383,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}

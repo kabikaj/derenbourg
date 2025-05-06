@@ -20,6 +20,26 @@ from pprint import pprint
 from argparse import ArgumentParser, FileType
 
 
+NORM_MAPPING = {
+    "Magrébino": "Magrébine",
+    "Magrobine": "Magrébine",
+    "Magréline": "Magrébine"
+}
+
+
+NORM_REGEX = re.compile("|".join(
+    list(
+        filter(
+            re.escape,
+            sorted(NORM_MAPPING, key=len, reverse=True)
+        )
+    )))
+
+def norm(text: str) -> str:
+    text = NORM_REGEX.sub(lambda m: NORM_MAPPING[m.group(0)], text)
+    return text
+
+
 if __name__ == "__main__":
 
     parser = ArgumentParser(
@@ -52,9 +72,11 @@ if __name__ == "__main__":
         with open(fpath) as fp:
             data = json.load(fp)
 
-        for obj in data["catalogue_entries"]:
-
-            obj["text"] = text
+        for obj in data["catalogue_entry"]:
+            for k, v in obj.items():
+                if isinstance(v, str):
+                    obj[k] = norm(v)
+            obj["text"] = norm(text)
 
             collected.append(obj)
     

@@ -1,0 +1,45 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les études réconfortantes; commentaire sur ce qu'il y a de meilleur dans le Livre suffisant"
+            ],
+            "date_of_book": {
+                "hijri": 771,
+                "CE": 1369
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "والاسم المنقوص فى احكام الوقف على اربعة اقسام.",
+            "explicit": "وقد كمل بحمد الله الغرض المقصود ...... رسمته بالمقاصد الشافية في شرح خلاصة الكافية ...... وكان الفراغ من تقييده ...... عام ۷۷۱.",
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 165,
+            "lines_per_page": [
+                30
+            ]
+        }
+    ]
+}

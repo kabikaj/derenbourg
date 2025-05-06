@@ -1,0 +1,44 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "همع الهوامع على جمع الجوامع",
+                "الجزء الثالث من همع الهوامع على جمع الجوامع"
+            ],
+            "date_of_book": {
+                "hijri": 1002,
+                "CE": 1595
+            },
+            "author": [
+                "الجلال السيوطي",
+                "الشافعي"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الكتاب الثالث فى المجرورات وما يعمل عليها من المجزومات الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 202,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

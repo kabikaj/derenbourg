@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Introduction à la grammaire",
+                "المقدمة الجزولية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Abou 'Ali 'Omar ibn Mohammad ibn ‘Omar ibn 'Abd Allah Al-Azdî"
+            ],
+            "date_of_author": {
+                "hijri": 645,
+                "CE": 1247
+            },
+            "book_commented_upon": [
+                "المقدمة الجزولية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Abou Mousa 'Isa ibn 'Abd el-'Azîz Al-Djouzofilf"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 622,
+                    "date_CE": 1225,
+                    "place": "Séville"
+                }
+            ],
+            "incipit": "الازدي عُرف (sic) بالشلوبين",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 103,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الفوائد الضيائية",
+                "Les enseignements utiles pour Diyâ ed-Dîn"
+            ],
+            "date_of_book": {
+                "hijri": 995,
+                "CE": 1587
+            },
+            "author": [
+                "Djâmî",
+                "المولى عبد الرحمن بن احمد نور الدين الجامى"
+            ],
+            "date_of_author": {
+                "hijri": 898,
+                "CE": 1492
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 203,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

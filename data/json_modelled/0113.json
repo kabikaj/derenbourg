@@ -1,0 +1,98 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur l'abrégé d'Al-Baiḍâwî",
+                "كتاب شرح مختصر البيضاوى"
+            ],
+            "date_of_book": {
+                "hijri": 995,
+                "CE": 1586
+            },
+            "author": [
+                "Moḥammad Al-Birdjilî",
+                "محمد البرجلى"
+            ],
+            "date_of_author": {
+                "hijri": 981,
+                "CE": 1573
+            },
+            "book_commented_upon": [
+                "La moëlle",
+                "اللب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Al-Baidawî",
+                "عمر القاضي البيضاوى"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله وسلام على عباده ...... وبعد فلما اردت ان ادرس كتاب اللب المنسوب الى ...... عمر القاضي البيضاوى.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 239,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "Glose du schaikh Nâsir ed-Din Al-Lokânî sur le Taudiḥ",
+                "غلسة ناصر الدين اللوقاني على التوضيح"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Élucidation",
+                "Taudiḥ"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Hischâm"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قوله ای الکلام اى هذه الحصور أى هذا اللفظ بدليل قوله عبارة الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 111,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

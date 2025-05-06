@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les observations fines d'Al-Djalâl",
+                "النكت للجلال"
+            ],
+            "date_of_book": {
+                "hijri": 913,
+                "CE": 1507
+            },
+            "author": [
+                "Al-Djalâl",
+                "جلال الدين عبد الرحمن نجل الشيخ ... کمال  الدين ابى بكر السيوطي الشافعي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "خلاصة لابن مالك المشهورة بالالفية",
+                "الكافية لابن الحاجب",
+                "الشافية له",
+                "شذور الذهب لابن هشام",
+                "نزهة الطرف في علم الصرف له"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله على نعمه الكافيه ...... فهذه نكت حررتها على كتب في علم العربية ......",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 187,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}

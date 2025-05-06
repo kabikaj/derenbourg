@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "شرح الكافية",
+                "الجزء الثانى من شرح الكافية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "عبد العزيز بن جمعه بن زيد النحوى الموصلى",
+                "Ibn AlKawwâs"
+            ],
+            "date_of_author": {
+                "hijri": 694,
+                "CE": 1294
+            },
+            "book_commented_upon": [
+                "الكافية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 270,
+            "lines_per_page": [
+                16
+            ]
+        }
+    ]
+}

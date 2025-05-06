@@ -1,0 +1,38 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Livre intitulé: L'explication au sujet de la science de la rhétorique",
+                "كتاب التبيان في علم المعاني"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 143,
+            "lines_per_page": [
+                18
+            ]
+        }
+    ]
+}

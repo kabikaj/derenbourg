@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les gloses",
+                "الحواشى"
+            ],
+            "date_of_book": {
+                "hijri": 814,
+                "CE": 1411
+            },
+            "author": [
+                "Zauzanî",
+                "محمد بن عثمان بن محمد بن ابى على العرضى"
+            ],
+            "date_of_author": {
+                "hijri": 736,
+                "CE": 1335
+            },
+            "book_commented_upon": [
+                "La moëlle",
+                "اللباب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Al-Fâdil Al-Isfara'ini",
+                "الفاضل الاسفرائيني"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله رب العالمين وشرائف صلواته على سيد البشر محمد ......",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 209,
+            "lines_per_page": [
+                28
+            ]
+        }
+    ]
+}

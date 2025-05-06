@@ -1,0 +1,46 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "كتاب شرح لامية الافعال",
+                "Commentaire sur la Lamiya des actions"
+            ],
+            "date_of_book": null,
+            "author": [
+                "محمد بن مالك",
+                "جمال الدين محمد بن مالك",
+                "محمد بن عمر اليمنى المعروف بابن محرق"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "العلامة الاوحد"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 82,
+            "lines_per_page": [
+                19
+            ]
+        }
+    ]
+}

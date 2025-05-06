@@ -1,0 +1,37 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Anthologie en prose et en vers"
+            ],
+            "date_of_book": {
+                "hijri": 1003,
+                "CE": 1594
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "عفا سرف من اهله فشوارع        فجنبا اريك فالتلاع الدوافع",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 191,
+            "lines_per_page": [
+                20
+            ]
+        }
+    ]
+}

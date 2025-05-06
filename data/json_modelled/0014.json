@@ -1,0 +1,48 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Études grammaticales",
+                "كتاب المقاصد النحوية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Aboû Mohammad Mahmoud ibn Ahmad Al-Ainî"
+            ],
+            "date_of_author": {
+                "hijri": 855,
+                "CE": 1451
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اياك نحمد يا من علمتنا من العلوم ما لم تعلم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique très soignée",
+            "number_of_folios": 257,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

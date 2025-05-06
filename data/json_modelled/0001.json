@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le livre de Sîboûyéh",
+                "كتاب سيبويه"
+            ],
+            "date_of_book": {
+                "hijri": 629,
+                "CE": 1231
+            },
+            "author": [
+                "Aboû Bischr Amr ibn 'Othman ibn Kanbar",
+                "سِيبَوَيْهِ"
+            ],
+            "date_of_author": {
+                "hijri": 180,
+                "CE": 796
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": "ثم كتاب سيبويه ...... وذلك يوم الاربعاء السابع والعشرين من ذى قعبة عام.",
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 271,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

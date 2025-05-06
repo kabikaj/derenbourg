@@ -1,0 +1,49 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "كتاب شرح الجرجانية فى النحو",
+                "Commentaire sur le traité d'Al-Djordjânî"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "سيدنا شهاب الدین احمد بن الشيخ شرف الدين شرف بن منصور الثعلبي الشافعى الزرعى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "الجرجانية",
+                "المختصر تصنيف الجرجاني"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الكريم المنان العظيم السلطان الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique très soignée",
+            "number_of_folios": 88,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

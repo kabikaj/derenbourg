@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Direction vers le chemin qui conduit à l'intelligence des questions posées par le Tashil",
+                "هداية السبيل الى بيان مسائل التسهيل"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Abd el-Kâdir ibn Abi 'l-Kasim Al-'Imadi Al-Anşârî"
+            ],
+            "date_of_author": {
+                "hijri": 820,
+                "CE": 1420
+            },
+            "book_commented_upon": [
+                "تسهيل الفوائد وتكميل المقاصد"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik",
+                "جمال الدين ابو عبد الله محمد بن عبد الله بن مالك الطائى الحياني"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذى منح من شاء من عباده تسهيل الفوائد الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 125,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}

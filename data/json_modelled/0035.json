@@ -1,0 +1,40 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le jardin embaumé; des sens des lettres de l'alphabet",
+                "كتاب الروض الانسم فى معاني حروف المعجم"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "احمد بن محمد من على بن ويغلان بن نماری بن مونس البجائى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله الذى بسط الامل بعد القبض المخوف الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 48,
+            "lines_per_page": [
+                11
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Abrégé de la syntaxe",
+                "الملخص في النحو"
+            ],
+            "date_of_book": {
+                "hijri": 683,
+                "CE": 1284
+            },
+            "author": [
+                "Aboû 'l-Hosain ibn Abi 'r-Rabi Al-Koraschi",
+                "ابو الحسين عبيد الله بن احمد بن ابى الربيع القرشي"
+            ],
+            "date_of_author": {
+                "hijri": 688,
+                "CE": 1289
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "باب الجر الجر لا يكون الا بالاضافة الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 119,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

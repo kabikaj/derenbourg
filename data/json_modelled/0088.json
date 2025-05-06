@@ -1,0 +1,48 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الدرّة النحوية في شرح الجرومية",
+                "Commentaire sur l' Adjourrotmiyya"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "محمد بن احمد بن يعلى يف الحسنى"
+            ],
+            "date_of_author": {
+                "hijri": 723,
+                "CE": 1323
+            },
+            "book_commented_upon": [
+                "Adjourrotmiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 38,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

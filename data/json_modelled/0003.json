@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Nadjm ed-Dîn Moḥammad ibn Ḥosain Al-Astarâbâdhî sur la Kafiya",
+                "الكافية"
+            ],
+            "date_of_book": {
+                "hijri": 869,
+                "CE": 1464
+            },
+            "author": [
+                "Nadjm ed-Dîn Moḥammad ibn Ḥosain Al-Astarâbâdhî",
+                "محمد بن الحسين الاسترابافاذى"
+            ],
+            "date_of_author": {
+                "hijri": 683,
+                "CE": 1283
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1275,
+                    "date_CE": 1858,
+                    "place": "Constantinople"
+                }
+            ],
+            "incipit": "ثم الجزء الأول من شرح الكافية للشيخ ...... نجم الملة والدين رضى الاسلام والمسلمين محمد بن الحسين الاسترابافاذى.",
+            "explicit": "هذا اخر شرح المقدمة ...... وقد. ثم تمامها وختم اختتامها في ...... سنة ٨٦٩ بمدينة القاهرة المحروسة.",
+            "material": "Papier",
+            "script": "Orientale",
+            "number_of_folios": 199,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur la troisième partie du مفتاح العلوم",
+                "La clef des sciences"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "'Ali ibn Mohammad Al-Djordjânî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "مفتاح العلوم"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Sirâdj ed-Dîn Aboû Yakoûb Yoûsouf ibn Abî Moḥammad ibn Ali As-Sakkâkî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1241,
+                    "date_CE": 1825,
+                    "place": "Constantinople"
+                }
+            ],
+            "incipit": null,
+            "explicit": "تمت (sic) شرح المفتاح بعون الله.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 164,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

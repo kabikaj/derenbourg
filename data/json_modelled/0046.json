@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La réfutation de Az-Zobaidî au sujet de la fausse prononciation du bas peuple",
+                "كتاب الرد على الزبيدى فى لحن العوام"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Hischâm",
+                "ابو عبد الله محمد بن احمد بن هشام"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Az-Zobaidî",
+                "ابو بكر محمد بن حسن الزبيدي"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": 379,
+                "CE": 989
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله قبل كل مقال الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 72,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire d'Ibn 'Akil sur l'Alfiyya d'Ibn Mâlik"
+            ],
+            "date_of_book": {
+                "hijri": 870,
+                "CE": 1465
+            },
+            "author": [
+                "Ibn 'Akil"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1252,
+                    "date_CE": 1837,
+                    "place": "Boûlâk"
+                },
+                {
+                    "date_hijri": null,
+                    "date_CE": 1851,
+                    "place": "Lipsise"
+                },
+                {
+                    "date_hijri": null,
+                    "date_CE": 1852,
+                    "place": "Berlin"
+                },
+                {
+                    "date_hijri": null,
+                    "date_CE": 1872,
+                    "place": "Beiroût"
+                }
+            ],
+            "incipit": "اذا اجتمع ضميران وكانا منصوبين",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 139,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

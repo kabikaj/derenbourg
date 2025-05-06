@@ -1,0 +1,46 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le Miftah",
+                "كتاب شرح المفتاح"
+            ],
+            "date_of_book": {
+                "hijri": 804,
+                "CE": 1401
+            },
+            "author": [
+                "Sa'd ed-Dîn At-Taftâzânî",
+                "سعد الدين التفتازانى"
+            ],
+            "date_of_author": {
+                "hijri": 791,
+                "CE": 1388
+            },
+            "book_commented_upon": [
+                "مفتاح العلوم",
+                "la clef des sciences"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "ابو يعقوب سراج المعالى يوسف بن محمد السكاكي"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 626,
+                "CE": 1228
+            },
+            "publication": [],
+            "incipit": "خير خبر يوشح به صدر الكلام الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique très soignée",
+            "number_of_folios": 342,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

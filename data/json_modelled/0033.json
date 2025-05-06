@@ -1,0 +1,139 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les trésors réservés",
+                "كتاب الملقب بالذخائر"
+            ],
+            "date_of_book": {
+                "hijri": 1366,
+                "CE": 1947
+            },
+            "author": [
+                "Aboû 'l-Hasan ‘Alî ibn Mohammad",
+                "الامام أبي الحسن على بن محمد النحوى الهروى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "الازهرية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Al-Harawî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "سألتني ايدك الله ان اجمع لك ابوابا من النحو قد ذكرناها متفرقة في كتابنا الملقب بالذخائر الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 112,
+            "lines_per_page": [
+                23
+            ]
+        },
+        {
+            "book": [
+                "Livre des régents grammaticaux",
+                "كتاب العوامل"
+            ],
+            "date_of_book": {
+                "hijri": 628,
+                "CE": 1230
+            },
+            "author": [
+                "Sirâdj ed-Din Mahmoud ibn Yousouf",
+                "الهروى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله حق حمده الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 48,
+            "lines_per_page": [
+                null
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur les Signes évidents",
+                "كتاب شرح الآيات البينات"
+            ],
+            "date_of_book": {
+                "hijri": 669,
+                "CE": 1270
+            },
+            "author": [
+                "Fakhr ed-Din Mohammad ibn Omar Ar-Râzî",
+                "السعيد فخر الدين محمد بن عمر الرازى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Izz ed-Dîn 'Abd el-Hamîd ibn Abt 'l-Hadid"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 655,
+                "CE": 1257
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الواحد الاجل الفرد الصمد الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 112,
+            "lines_per_page": [
+                null
+            ]
+        }
+    ]
+}

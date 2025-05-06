@@ -1,0 +1,215 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le traité de 'Izz ed-Dîn sur la théorie des flexions",
+                "العزى فى التصريف"
+            ],
+            "date_of_book": {
+                "hijri": 990,
+                "CE": 1582
+            },
+            "author": [
+                "Mas'oûd ibn 'Omar At-Taftâzânî"
+            ],
+            "date_of_author": {
+                "hijri": 737,
+                "CE": 1336
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "إنّ اروى زهر يخرج في رياض الكلام من الاكام ...... فيقول ...... مسعود ابن عمر القاضى التفتازاني ...... لما كان مختصر التصريف الذي صنفه ...... عن الملة والدين الزنجانى ...... سنح لى ان اشرحه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 990,
+            "lines_per_page": [
+                23
+            ]
+        },
+        {
+            "book": [
+                "Traité des heritages, connu sous le nom d'Ar-Raḥbiyya",
+                "فرائض الرحبية"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "اول ما نستفتح المقالا       بذكر حمد ربنا تعالى",
+            "explicit": "وصحبه الافاضل الاخيار       الصفوة الأماثل الابرار",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 37,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur le poème précédent"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Mohammad ibn Badr ed-Dîn Sibt Al-Mâridînî"
+            ],
+            "date_of_author": {
+                "hijri": 934,
+                "CE": 1527
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله رب العالمين والعاقبة للمتقين ...... فهذا شرح لطيف مختصر على المقدمة الرحبية فى الفرائض نافع ان شاء الله الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 62,
+            "lines_per_page": [
+                26
+            ]
+        },
+        {
+            "book": [
+                "Feuillets sur les principes du droit musulman"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "ابو المعالي عبد الملك بن الشيخ ابى محمد عبد الله بن يوسف بن محمد الجويني"
+            ],
+            "date_of_author": {
+                "hijri": 419,
+                "CE": 1028
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "هذه ورقات قليلة تشتمل على معرفة فصول من اصول الفقه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 64,
+            "lines_per_page": [
+                27
+            ]
+        },
+        {
+            "book": [
+                "قرة العين لشرح ورقات امام الحرمين",
+                "Le rafraîchissement de l'oeil; commentaire sur les Feuillets de l'imâm des deux villes saintes"
+            ],
+            "date_of_book": {
+                "hijri": 981,
+                "CE": 1573
+            },
+            "author": [
+                "Aboû 'Abd Allah Moḥammad ibn Al-Haṭṭâb"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 85,
+            "lines_per_page": [
+                21
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur l'Adjourroûmiyya"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "برهان الدین مفتى المسلمين ابو اسحاق ابراهيم البحيري المالكي الازهرى"
+            ],
+            "date_of_author": {
+                "hijri": 916,
+                "CE": 1510
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "هذا شرح على المقدمة الجرومية الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 85,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

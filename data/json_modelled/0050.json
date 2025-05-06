@@ -1,0 +1,42 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les enseignements utiles pour Diyâ ed-Dîn",
+                "الفوائد الضيائية"
+            ],
+            "date_of_book": null,
+            "author": [
+                "Djâmî",
+                "المولى عبد الرحمن بن احمد نور الدين الجامى"
+            ],
+            "date_of_author": {
+                "hijri": 898,
+                "CE": 1492
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "بلغ مقابلة على الاصل الاخير الذى عليه خط سيدنا وشيخنا مؤلّفه ابقاه الله تعالى بمحمد وآله.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 414,
+            "lines_per_page": [
+                29
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الجزء الثالث من شرح التسهيل",
+                "Tome III du même exemplaire"
+            ],
+            "date_of_book": {
+                "hijri": 780,
+                "CE": 1378
+            },
+            "author": [
+                "بدر الدين حسن ابن قاسم بن عبد الله المرادى"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 180,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

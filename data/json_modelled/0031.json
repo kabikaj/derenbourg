@@ -1,0 +1,47 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le «Traité des propositions grammaticales»"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Traité des propositions grammaticales"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû 'l-Ķâsim Az-Zadjdjâdjî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قول ابى القاسم في اول كتابه قال يحتمل ان يكون من ايقاع الماضى موقع المستقبل كما جاء فى كلام العرب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 57,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

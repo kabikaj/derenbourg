@@ -1,0 +1,234 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Poème rimant en lâm sur les verbes",
+                "لامية الافعال"
+            ],
+            "date_of_book": null,
+            "author": [
+                "Ibn Mâlik",
+                "ابن مالك الطائي"
+            ],
+            "date_of_author": {
+                "hijri": 686,
+                "CE": 1287
+            },
+            "book_commented_upon": [
+                "Sept commentaires sur la لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1271,
+                    "date_CE": 1854,
+                    "place": "Helsingfors"
+                },
+                {
+                    "date_hijri": 1273,
+                    "date_CE": 1864,
+                    "place": "St. Pétersbourg"
+                },
+                {
+                    "date_hijri": 1274,
+                    "date_CE": 1866,
+                    "place": "Leipzig"
+                }
+            ],
+            "incipit": "هذه اوراق تشتمل على قصيدة والدى رحمه الله تعالى فى ابنية الافعال وما يتصل على ذكر ما يحتاج اليه من الامثلة والايضاح ما أبهم وتفسير الغريب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 170,
+            "lines_per_page": [
+                35
+            ]
+        },
+        {
+            "book": [
+                "Commentaire par شمس الدين محمد بن عبد الدائم النعيمي البرماوي الشافعي"
+            ],
+            "date_of_book": null,
+            "author": [
+                "شمس الدين محمد بن عبد الدائم النعيمي البرماوي الشافعي"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله مصرف الافعال بما هو مريد الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "تحقيق المقال وتسهيل المنال فى شرح لامية الأفعال"
+            ],
+            "date_of_book": null,
+            "author": [
+                "ابو عبد الله محمد بن العباس"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله الذي تفرد فى ذاته الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Commentaire par يعقوب بن سعيد بن يعقوب المكلاتى"
+            ],
+            "date_of_book": null,
+            "author": [
+                "يعقوب بن سعيد بن يعقوب المكلاتى"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله رب العالمين الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Commentaire sans titre ni préface"
+            ],
+            "date_of_book": null,
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "الامام ابي عبد الله النجادي"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "قوله الحمد لله لا ابغى به بدلا الحمد هو الثناء على المحمود باللسان على الجميل من الفضائل الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Commentaire par ابو العباس احمد بن العباس الوهراني"
+            ],
+            "date_of_book": null,
+            "author": [
+                "ابو العباس احمد بن العباس الوهراني"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "Commentaire sans nom d'auteur"
+            ],
+            "date_of_book": null,
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "الحمد لله المتصرف قبل علّة التصريف الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

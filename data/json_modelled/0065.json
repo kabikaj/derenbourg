@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Livre intitulé: L'appui pour connaître les sept recensions du Coran",
+                "كتاب التيسير فى القراءات السبع"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "أبو عمر عثمن بن سعيد الداني"
+            ],
+            "date_of_author": {
+                "hijri": 444,
+                "CE": 1052
+            },
+            "book_commented_upon": [
+                "شرح التيسير"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": 712,
+                "CE": 1312
+            },
+            "author_of_book_commented_upon": [
+                "Aboû Mohammad Abd el-Wahid ibn Moḥammad Al-Bâhilî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 750,
+                "CE": 1349
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الاستاد اما كتاب التيسير فحدثني به الشيخ ابو بكر محمد بن محمد بن احمد الانصاری البلنسي ابن مشلیون اجازة نا (اخبرنا = sic) القاضي ابو بكر محمد بن احمد ابن عبد الملك بن ابى جمرة المرّى عن ابيه عن الحافظ ابي عمرو عثمن بن سعيد الدانى مؤلّفه وسمعته من لفظ الاستاذ الجليل ابى جعفر احمد بن ابرهيم ابن الزبير الثقفى الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 137,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

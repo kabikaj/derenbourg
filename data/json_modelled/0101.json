@@ -1,0 +1,135 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire anonyme sur la préface de المصباح في النحو",
+                "Le flambeau grammatical"
+            ],
+            "date_of_book": {
+                "hijri": 957,
+                "CE": 1550
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "المصباح في النحو"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Nâsir ibn 'Abd As-Sayyid Al-Motarrizî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 610,
+                "CE": 1213
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي لا يبلغ كنهه جاد ...... اما بعد فهذه اوراق لاعراب ديباجة المصباح من فوائد غرائب المصباح الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 49,
+            "lines_per_page": [
+                9
+            ]
+        },
+        {
+            "book": [
+                "الاعراب عن قواعد الاعراب",
+                "Explication des lois de la déclinaison"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Djamâl ed-Dîn Ibn Hischam"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Commentaire sur le traité précédent"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "هذه فوائد جليلة في قواعد الاعراب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 92,
+            "lines_per_page": [
+                7
+            ]
+        },
+        {
+            "book": [
+                "Commentaire sur le traité précédent"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "الاعراب عن قواعد الاعراب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Djamâl ed-Dîn Ibn Hischam"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اعلم ان الشيخ رضى الله عنه لم يصدر رسالته بالحمد كما فعله غيره الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 66,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

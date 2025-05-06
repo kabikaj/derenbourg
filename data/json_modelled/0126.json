@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Glose d'Ibn Kâsim sur le fils de l'auteur",
+                "كتاب حاشية ابن قاسم على ابن المصنف"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Kâsim",
+                "Schihab ed-Din Ahmad Ibn Kâsim Al-'Abbadu"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قوله واحده (sic) كلمة وهى على ثلاثة اقسام فيه بحث لان قضيته ان الكلمة التي هي واحد الكلم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 342,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

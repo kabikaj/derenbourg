@@ -1,0 +1,47 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Ce qui a été arabisé de la langue étrangère",
+                "كتاب المعرب"
+            ],
+            "date_of_book": {
+                "hijri": 522,
+                "CE": 1128
+            },
+            "author": [
+                "Aboû Mansoûr Manhoûb ibn Ahmad ibn Mohammad ibn Al-Khadir",
+                "ابى منصور موهوب بن احمد بن محمد بن الخضر الجواليقي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قرأتُ على الشيخ ...... ابى منصور موهوب بن احمد بن محمد بن الخضر الجواليقي اطال الله بقاءه هذا كتاب تذكر فيه ما تكلمت به العرب من كلام الاعجمي الخ .",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 72,
+            "lines_per_page": [
+                15
+            ]
+        }
+    ]
+}

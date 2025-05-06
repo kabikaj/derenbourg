@@ -1,0 +1,42 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الجزء الخامس من كتاب التذييل والتكميل في شرح كتاب التسهيل",
+                "Tome V du même exemplaire"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "اثير الدين ابى حيان محمد بن يوسف بن على بن يوسف بن حيان الاندلسي الشافعى النحوى الغرناطي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "كتاب التسهيل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": "يتلوه فى اول الجزء السادس باب افعل التفضيل; ثم كتبه لنفسه الخ.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 229,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

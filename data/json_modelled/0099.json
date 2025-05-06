@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'introduction au relèvement du langage et à l'enseignement de l'art de l'exposition",
+                "كتاب المدخل الى تقويم اللسان وتعليم البيان"
+            ],
+            "date_of_book": {
+                "hijri": 607,
+                "CE": 1210
+            },
+            "author": [
+                "Aboû Abd Allah Moḥammad ibn Ahmad Ibn Hischâm Al-Lakhmi",
+                "ابو عبد الله محمد بن احمد بن هشام اللخمي"
+            ],
+            "date_of_author": {
+                "hijri": 570,
+                "CE": 1174
+            },
+            "book_commented_upon": [
+                null
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 92,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

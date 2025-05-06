@@ -1,0 +1,134 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La pluie qui dégoutte et la soif étanchée",
+                "قطر الندى وبلّ الصدى"
+            ],
+            "date_of_book": {
+                "hijri": 974,
+                "CE": 1566
+            },
+            "author": [
+                "Ibn Hischâm",
+                "ابو محمد جمال الدين عبد الله بن هشام المصرى"
+            ],
+            "date_of_author": {
+                "hijri": 761,
+                "CE": 1359
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1274,
+                    "date_CE": 1857,
+                    "place": "Caire"
+                },
+                {
+                    "date_hijri": 1281,
+                    "date_CE": 1864,
+                    "place": "Tunis"
+                }
+            ],
+            "incipit": "الحمد لله رافع الدرجات لمن انخفض لجلاله ...... وبعد فهذه نكت حررتها على مقدمتى المسماة بقطر الندى وبل الصدى الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 271,
+            "lines_per_page": [
+                22,
+                23
+            ]
+        },
+        {
+            "book": [
+                "Les parcelles d'or",
+                "شذور الذهب"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Hischâm",
+                "ابو محمد جمال الدين عبد الله بن هشام المصرى"
+            ],
+            "date_of_author": {
+                "hijri": 761,
+                "CE": 1359
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1253,
+                    "date_CE": 1837,
+                    "place": "Boûlak"
+                },
+                {
+                    "date_hijri": 1289,
+                    "date_CE": 1873,
+                    "place": "Caire"
+                }
+            ],
+            "incipit": "اول ما اقول انى احمد الله العلى الكريم ...... فهذا كتاب شرحت به مختصري المسمى بشذور الذهب في معرفة كلام العرب الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 0,
+            "lines_per_page": []
+        },
+        {
+            "book": [
+                "Au clair chemin vers l'Alfiyya d'Ibn Mâlik",
+                "اوضح المسالك الى الفية ابن مالك"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Ibn Hischâm",
+                "ابو محمد جمال الدين عبد الله بن هشام المصرى"
+            ],
+            "date_of_author": {
+                "hijri": 761,
+                "CE": 1359
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 0,
+            "lines_per_page": []
+        }
+    ]
+}

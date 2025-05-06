@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Schams ed-Din Mohammad Al-Fâriḍî sur l'Alfiyya d'Ibn Mâlik",
+                "شرح الفية ابن مالك للفارضي"
+            ],
+            "date_of_book": {
+                "hijri": 987,
+                "CE": 1579
+            },
+            "author": [
+                "Schams ed-Din Mohammad Al-Fâriḍî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Alfiyya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "(الحمد لله) المجيب الندا، الأول بلا ابتدا، (اما بعد) فهذا ما فتح الله تعالى به شرحا او كالشرح على الالفية الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Orientale",
+            "number_of_folios": 371,
+            "lines_per_page": [
+                29
+            ]
+        }
+    ]
+}

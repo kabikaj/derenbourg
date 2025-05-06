@@ -1,0 +1,234 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Poème rimant en lâm sur les verbes",
+                "لامية الافعال"
+            ],
+            "date_of_book": null,
+            "author": [
+                "Aboû 'l-'Abbas Aḥmad ibn Al-Abbas Al-Wahrânt"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "لامية الافعال"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Mâlik"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "حزب البحر"
+            ],
+            "date_of_book": null,
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "حزب البحر"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Noûr ed-Dîn 'Alî Asch-Schâdhilî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "حزب البحر ويسمى بالحفظية ويقال انه من املاء رسول الله صلى الله عليه وسلم على الشيخ فى النوم يا الله يا على يا عظيم يا حليم يا عليم الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "كتاب الاعراب عن قواعد الاعراب"
+            ],
+            "date_of_book": null,
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "كتاب الاعراب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Hischâm"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "هذا كتاب المثلث في الكلام"
+            ],
+            "date_of_book": null,
+            "author": [
+                "محمد بن احمد الحسيني المعروف بقطرب"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "المثلث في الكلام"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "كتاب تاج العروس لتاج الدين ابن عطاء الله"
+            ],
+            "date_of_book": null,
+            "author": [
+                "تاج الدين ابن عطاء الله"
+            ],
+            "date_of_author": {
+                "hijri": 709,
+                "CE": 1309
+            },
+            "book_commented_upon": [
+                "تاج العروس"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "ايها العبد اطلب التوبة من الله تعالى في كل وقت الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        },
+        {
+            "book": [
+                "قصيدة منفرجة"
+            ],
+            "date_of_book": null,
+            "author": [
+                "ابو عبد الله محمد بن عبد الرحيم ابن الجيش التازي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "قصيدة منفرجة"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn An-Nahwi"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 473,
+                "CE": 1080
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اشتدى أزمة تنفرج        قد أبدل ضيقك بالفرج",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

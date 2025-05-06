@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Ceci est la glose du Maulâ Sâdik Al-Kîlânî sur la Kafiya",
+                "هذه حاشية الملا صادق الكيلاني على كافية ابن الحاجب"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Al-Kîlânî",
+                "الملا صادق الكيلاني"
+            ],
+            "date_of_author": {
+                "hijri": 961,
+                "CE": 1553
+            },
+            "book_commented_upon": [
+                "Kafiya"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hadjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما ...... نحمدك كل الحمد على ما الهمتني من حب ما تحب بعد فيقول ...... الصادقي الكيلاني المسعودى الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 140,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire juste-milieu sur le Mougnî d'Ibn Hischâm",
+                "المنصف من الكلام على معنى ابن هشام"
+            ],
+            "date_of_book": {
+                "hijri": 992,
+                "CE": 1584
+            },
+            "author": [
+                "تقى الدين ابو العباس احمد بن محمد الشمنى"
+            ],
+            "date_of_author": {
+                "hijri": 872,
+                "CE": 1467
+            },
+            "book_commented_upon": [
+                "Mougnî"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Hischâm"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذي خص كتابه بعدم المعارضة والاعجاز الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 304,
+            "lines_per_page": [
+                33
+            ]
+        }
+    ]
+}

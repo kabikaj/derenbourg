@@ -1,0 +1,42 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الجزء الثانى من كتاب التذييل والتكميل في شرح كتاب التسهيل",
+                "Tome II du même exemplaire"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "أبى حيان محمد بن يوسف الاندلسي الشافعي"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "كتاب التسهيل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": null,
+            "explicit": "يتلوه في المجلد الثالث ص فصل يتقدم كسران الخ.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 207,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le commentaire perfectionné sur le Moufassal",
+                "كتاب المكمل فى شرح المفصل"
+            ],
+            "date_of_book": {
+                "hijri": 682,
+                "CE": 1283
+            },
+            "author": [
+                "Mouthahhir ed-Din Mohammad"
+            ],
+            "date_of_author": {
+                "hijri": 659,
+                "CE": 1260
+            },
+            "book_commented_upon": [
+                "Moufassal",
+                "المفصل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "فخر خوازم محمود بن عمر",
+                "الزمخشري"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله الذى قصّر عما يليق بكبريائه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 218,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}

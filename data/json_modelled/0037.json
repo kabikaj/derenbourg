@@ -1,0 +1,46 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "المزهر في علوم اللغة",
+                "Le lath; des sciences du langage"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Soyoûtî"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1282,
+                    "date_CE": 1865,
+                    "place": "Boûlâķ"
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 257,
+            "lines_per_page": [
+                27
+            ]
+        }
+    ]
+}

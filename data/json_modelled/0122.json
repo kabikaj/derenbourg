@@ -1,0 +1,96 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Le divulgateur des noms dans la recherche des particules et des noms",
+                "المسعر الاسما في مبحث الحروف والاسما"
+            ],
+            "date_of_book": {
+                "hijri": 896,
+                "CE": 1490
+            },
+            "author": [
+                "'Abd el-Kâdir Al-Mouṭhaffirî",
+                "عبد القادر المظفّرى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "La révélation du secret des lettres; emploi qu'en fait la langue de l'homme instruit",
+                "اظهار ستر الحروف في وضعها على اللسان المألوف"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "'Abd el-Kâdir Al-Mouṭhaffirî",
+                "عبد القادر المظفّرى"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "باسم الآله العالم المقتدر        يقول عبد القادر المظفّرى",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 140,
+            "lines_per_page": [
+                29
+            ]
+        },
+        {
+            "book": [
+                "Traité de grammaire",
+                "المستجمع للنكاة اللطيفة المستودع للفوائد والعوائد الشريفة"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "'Abd el-Kâdir Al-Mouṭhaffirî",
+                "عبد القادر المظفّرى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "الكلمة لفظ وضع لمعنى مفرد; وهي اسم وفعل وحرف لانها اما ان تدل على معنى في نفسها او لا"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الكلمة بدأ بذكر الكلمة والكلام لكونهما موضوعى علم النحو الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": null,
+            "lines_per_page": null
+        }
+    ]
+}

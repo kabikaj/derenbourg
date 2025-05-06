@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "شرح التسهيل لأبي حيان",
+                "الخامس من شرح التسهيل"
+            ],
+            "date_of_book": {
+                "hijri": 740,
+                "CE": 1339
+            },
+            "author": [
+                "أبو حيان"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "التسهيل"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "أبو حيان"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "ص باب المعطوف عطف النسق الخ.",
+            "explicit": "ويتلوه فى الذى يليه باب اعراب الفعل وعوامله.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 277,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

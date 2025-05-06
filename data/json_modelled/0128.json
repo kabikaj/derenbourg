@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La niche dans la mur et la lampe",
+                "هذا كتاب المشكاة والنبراس"
+            ],
+            "date_of_book": {
+                "hijri": 705,
+                "CE": 1305
+            },
+            "author": [
+                "Aboû Isḥâk",
+                "ابو اسحاق بن ...... ابى محمد عبد السلام الصنهاجي المشتهر بالعطار",
+                "ابو اسحاق ابراهيم بن عبد السلام الصنهاجي عرف بالعطار"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Livre des extraits",
+                "الكراسة النحوية"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "كمل السفر الأول من شرح الكراسة النحوية ...... ويتلوه في اول السفر الثانى ...... باب الابتداء العالمين ...... قال المؤلف رحمه الله الكلام هو اللفظ المركب المفيد بالوضع فصول هذا الباب ثلاثة الأول فى معانى الاشياء الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magréline",
+            "number_of_folios": 108,
+            "lines_per_page": [
+                29
+            ]
+        }
+    ]
+}

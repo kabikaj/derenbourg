@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "همع الهوامع فى شرح جمع الجوامع فى العربية",
+                "كتاب همع الهوامع"
+            ],
+            "date_of_book": {
+                "hijri": 915,
+                "CE": 1509
+            },
+            "author": [
+                "الجلال السيوطى",
+                "Soyoûti"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "جمع الجوامع"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                null
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": "Caire"
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 165,
+            "lines_per_page": [
+                33
+            ]
+        }
+    ]
+}

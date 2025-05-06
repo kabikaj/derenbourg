@@ -1,0 +1,50 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Glose d'Al-Lokânî sur le commentaire relatif aux flexions d'At-Taftâzânî",
+                "حاشية اللقاني على شرح التصريف للتفتازانى"
+            ],
+            "date_of_book": {
+                "hijri": 994,
+                "CE": 1585
+            },
+            "author": [
+                "Nâsir ed-Dîn Al-Lokânî"
+            ],
+            "date_of_author": {
+                "hijri": 924,
+                "CE": 1518
+            },
+            "book_commented_upon": [
+                "Commentaire de Mas'oûd ibn 'Omar At-Taftâzânî sur le traité de 'Izz ed-Dîn Az-Zandjânî"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Mas'oûd ibn 'Omar At-Taftâzânî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "اما بعد حمد الله والصلاة والسلام على رسول الله فهذه حواش على مواضع من شرح تصريف العزى للعلامة التفتازانى الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 71,
+            "lines_per_page": [
+                21
+            ]
+        }
+    ]
+}

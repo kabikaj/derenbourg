@@ -1,0 +1,37 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Traité sur les mots et les modifications qu'ils subissent"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "باب التمثيل",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 66,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

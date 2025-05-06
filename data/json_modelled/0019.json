@@ -1,0 +1,52 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire de Dschârpardî sur la Schâfiya, manuel d'étymologie et de syntaxe",
+                "الجار پردی شرح الشافية"
+            ],
+            "date_of_book": {
+                "hijri": 839,
+                "CE": 1435
+            },
+            "author": [
+                "Dschârpardî",
+                "ابو عبد الله احمد بن الحسين الجاربردي"
+            ],
+            "date_of_author": {
+                "hijri": 746,
+                "CE": 1345
+            },
+            "book_commented_upon": [
+                "Schâfiya",
+                "كتاب التصريف"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Ibn Al-Hâdjib"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": 1262,
+                    "date_CE": 1845,
+                    "place": "Calcutta"
+                }
+            ],
+            "incipit": "رب تمم بالخير ربنا افرغ علينا صبرا الخ",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 175,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

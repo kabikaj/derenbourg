@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La conquête du créateur; la science des lettres de l'alphabet et des talismans en carrés",
+                "كتاب فتح الخلاق في علم الحروف والاوفاق"
+            ],
+            "date_of_book": {
+                "hijri": 863,
+                "CE": 1458
+            },
+            "author": [
+                "Nâsir ed-Din Mohammad ibn Korkmâs",
+                "ناصر الدين محمد بن قرقاس الحنفى"
+            ],
+            "date_of_author": {
+                "hijri": 882,
+                "CE": 1477
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "الحمد لله حق حمده وصلواته على سيدنا محمد رسوله وعبده ...... وبعد فهذه نبذة في علم الحروف الملخصه توضح اصوله باصول قواعده مخصصه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 22,
+            "lines_per_page": [
+                17
+            ]
+        }
+    ]
+}

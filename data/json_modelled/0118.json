@@ -1,0 +1,36 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La clef des sciences",
+                "مفتاح العلوم"
+            ],
+            "date_of_book": null,
+            "author": [
+                "Sa'd ed-Din At-Taftazâni"
+            ],
+            "date_of_author": null,
+            "book_commented_upon": [
+                "troisième partie"
+            ],
+            "date_of_book_commented_upon": null,
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": null,
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": null,
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 200,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}

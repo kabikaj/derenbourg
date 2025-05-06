@@ -1,0 +1,28 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "الجزء العاشر",
+                "le tome X"
+            ],
+            "date_of_book": null,
+            "author": null,
+            "date_of_author": null,
+            "book_commented_upon": [
+                "كتاب التذييل والتكميل"
+            ],
+            "date_of_book_commented_upon": null,
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": null,
+            "publication": null,
+            "incipit": "ص فصل امالة الفعل في التصريف الخ.",
+            "explicit": "كمل السفر العاشر من كتاب التذييل والتكميل ...... وبكماله كمل جميع الديوان.",
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 275,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "L'explication des difficultes que présente Le livre de l'improvisation",
+                "كتاب تفسير المشكل من كتاب المقتضب"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Sa'îd ibn Sa'îd Al-Fârikî",
+                "الشيخ الامام سعيد بن سعيد الفارقى"
+            ],
+            "date_of_author": {
+                "hijri": 391,
+                "CE": 1000
+            },
+            "book_commented_upon": [
+                "Le livre de l'improvisation",
+                "كتاب المقتضب"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Aboû 'l-'Abbâs Mohammad ibn Yazîd Al-Moubarrad",
+                "ابي العباس محمد ابن يزيد المبرد"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": 285,
+                "CE": 898
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "الحمد لله ولى كل نقمه وولى كل نعمه الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 70,
+            "lines_per_page": [
+                15
+            ]
+        }
+    ]
+}

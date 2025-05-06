@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "La bonne odeur; les dix recensions du Coran",
+                "كتاب النشر فى القراءات العشر"
+            ],
+            "date_of_book": {
+                "hijri": 909,
+                "CE": 1503
+            },
+            "author": [
+                "Ibn Al-Djazari",
+                "ابو الخير محمد بن ...... شمس الدين محمد بن محمد بن على بن يوسف بن الجزري الدمشقى الشافعى"
+            ],
+            "date_of_author": {
+                "hijri": 833,
+                "CE": 1429
+            },
+            "book_commented_upon": null,
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": null,
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": null,
+            "incipit": "باب الادغام الصغير وهو عبارة عما اذا كان الحرف الأول منه ساكنا كما قدمنا فى اول باب الادغام الكبير الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Magrébine",
+            "number_of_folios": 189,
+            "lines_per_page": [
+                25
+            ]
+        }
+    ]
+}

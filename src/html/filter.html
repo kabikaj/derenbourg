@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Manuscript Data</title>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/styles.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container-fluid px-3 mt-4">
+    <h3 class="text-center mb-4">Search in Derenboug Catalogue</h3>
+
+    <!-- Filters -->
+    <form id="filterForm">
+      
+      <!-- Book Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-6">
+          <div class="dropdown">
+            <input type="text" id="bookFilter" class="form-control dropdown-toggle" placeholder="Book"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('book')">
+            <ul id="bookAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="bookDateHijriFilter" class="form-control dropdown-toggle" placeholder="Book Date (Hijri)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('bookDateHijri')">
+            <ul id="bookDateHijriAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="bookDateCEFilter" class="form-control dropdown-toggle" placeholder="Book Date (CE)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('bookDateCE')">
+            <ul id="bookDateCEAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Author Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-6">
+          <div class="dropdown">
+            <input type="text" id="authorFilter" class="form-control dropdown-toggle" placeholder="Author"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('author')">
+            <ul id="authorAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="authorDateHijriFilter" class="form-control dropdown-toggle" placeholder="Author Date (Hijri)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('authorDateHijri')">
+            <ul id="authorDateHijriAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="authorDateCEFilter" class="form-control dropdown-toggle" placeholder="Author Date (CE)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('authorDateCE')">
+            <ul id="authorDateCEAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Book Commented Upon Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-6">
+          <div class="dropdown">
+            <input type="text" id="bookCommentedUponFilter" class="form-control dropdown-toggle" placeholder="Book Commented Upon"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('bookCommentedUpon')">
+            <ul id="bookCommentedUponAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="bookCommentedUponDateHijriFilter" class="form-control dropdown-toggle" placeholder="Book Commented Upon Date (Hijri)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('bookCommentedUponDateHijri')">
+            <ul id="bookCommentedUponDateHijriAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="bookCommentedUponDateCEFilter" class="form-control dropdown-toggle" placeholder="Book Commented Upon Date (CE)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('bookCommentedUponDateCE')">
+            <ul id="bookCommentedUponDateCEAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Author of Book Commented Upon Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-6">
+          <div class="dropdown">
+            <input type="text" id="authorOfBookCommentedUponFilter" class="form-control dropdown-toggle" placeholder="Author of Book Commented Upon"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('authorOfBookCommentedUpon')">
+            <ul id="authorOfBookCommentedUponAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="authorOfBookCommentedUponDateHijriFilter" class="form-control dropdown-toggle" placeholder="Author of Book Commented Upon Date (Hijri)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('authorOfBookCommentedUponDateHijri')">
+            <ul id="authorOfBookCommentedUponDateHijriAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="authorOfBookCommentedUponDateCEFilter" class="form-control dropdown-toggle" placeholder="Author of Book Commented Upon Date (CE)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('authorOfBookCommentedUponDateCE')">
+            <ul id="authorOfBookCommentedUponDateCEAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Publication Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-4">
+          <div class="dropdown">
+            <input type="text" id="publicationPlaceFilter" class="form-control dropdown-toggle" placeholder="Publication Place"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('publicationPlace')">
+            <ul id="publicationPlaceAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="dropdown">
+            <input type="text" id="publicationDateHijriFilter" class="form-control dropdown-toggle" placeholder="Publication Date (Hijri)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('publicationDateHijri')">
+            <ul id="publicationDateHijriAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="dropdown">
+            <input type="text" id="publicationDateCEFilter" class="form-control dropdown-toggle" placeholder="Publication Date (CE)"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('publicationDateCE')">
+            <ul id="publicationDateCEAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Materiality Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="materialFilter" class="form-control dropdown-toggle" placeholder="Material"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('material')">
+            <ul id="materialAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="scriptFilter" class="form-control dropdown-toggle" placeholder="Script"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('script')">
+            <ul id="scriptAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="foliosFilter" class="form-control dropdown-toggle" placeholder="Number of Folios"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('folios')">
+            <ul id="foliosAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="dropdown">
+            <input type="text" id="linesPerPageFilter" class="form-control dropdown-toggle" placeholder="Lines per Page"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('linesPerPage')">
+            <ul id="linesPerPageAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+      <!-- Incipit Section -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-12">
+          <div class="dropdown">
+            <input type="text" id="incipitFilter" class="form-control dropdown-toggle" placeholder="Incipit"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('incipit')">
+            <ul id="incipitAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+
+
+      <!-- Explicit Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-12">
+          <div class="dropdown">
+            <input type="text" id="explicitFilter" class="form-control dropdown-toggle" placeholder="Explicit"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('explicit')">
+            <ul id="explicitAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+
+      <!-- Text Search -->
+      <div class="row g-3 mb-3">
+        <div class="col-md-12">
+          <div class="dropdown">
+            <input type="text" id="textFilter" class="form-control dropdown-toggle" placeholder="Search Text"
+              data-bs-toggle="dropdown" autocomplete="off" oninput="showAutocomplete('text')">
+            <ul id="textAutocomplete" class="dropdown-menu w-100 small"></ul>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Action Buttons -->
+      <div class="row mb-3">
+        <div class="col-md-3">
+          <button type="button" class="btn custom-search-btn w-100" onclick="filterData()">Filter Results</button>
+        </div>
+        <div class="col-md-3">
+          <button type="reset" class="btn btn-outline-secondary w-100" onclick="resetFilters()">Reset Filters</button>
+        </div>
+      </div>
+      </form>
+
+    <!-- Results Section -->
+    <div id="results"></div>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../js/script.js"></script>
+</body>
+</html>

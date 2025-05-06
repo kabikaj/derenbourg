@@ -1,0 +1,51 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Commentaire sur le Loubâb (la Moëlle)",
+                "شرح اللباب للسيد عبد الله"
+            ],
+            "date_of_book": {
+                "hijri": null,
+                "CE": null
+            },
+            "author": [
+                "Djamál ed-Din 'Abd Allâh ibn Mohammad Al-Hosainî",
+                "عبد الله بن محمد الحسيني"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [
+                "Loubâb"
+            ],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [
+                "Kotb ed-Dîn Mohammad ibn Mas'oûd Al-Fâlî"
+            ],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [
+                {
+                    "date_hijri": null,
+                    "date_CE": null,
+                    "place": null
+                }
+            ],
+            "incipit": "قال ...... تاج الملة والدين محمد بن محمد بن احمد بن السيفا الاسفرائي المعروف بتاج السيفان ...... احمد الله على ما تناسقت اى عطف بعضه على بعض الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 258,
+            "lines_per_page": [
+                23
+            ]
+        }
+    ]
+}

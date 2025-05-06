@@ -1,0 +1,41 @@
+{
+    "catalogue_entry": [
+        {
+            "book": [
+                "Les ressemblances et les analogies",
+                "كتاب الاشباه والنظائر"
+            ],
+            "date_of_book": {
+                "hijri": 985,
+                "CE": 1577
+            },
+            "author": [
+                "Djalâl ed-Dîn As-Soyoûtî",
+                "الشيخ جلال الدين السيوطى الشافعى"
+            ],
+            "date_of_author": {
+                "hijri": null,
+                "CE": null
+            },
+            "book_commented_upon": [],
+            "date_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "author_of_book_commented_upon": [],
+            "date_of_author_of_book_commented_upon": {
+                "hijri": null,
+                "CE": null
+            },
+            "publication": [],
+            "incipit": "سبحان الله المنزه عن الاشباه والنظائر الخ.",
+            "explicit": null,
+            "material": "Papier",
+            "script": "Asiatique",
+            "number_of_folios": 356,
+            "lines_per_page": [
+                31
+            ]
+        }
+    ]
+}
