@@ -1,5 +1,17 @@
+html, body {
+  height: 100%;
+}
+main {
+  flex: 1 0 auto;
+}
+footer {
+  flex-shrink: 0;
+}
+
 body {
     font-family: 'Amiri', serif;
+    display: flex;
+    flex-direction: column;
 }
 
 input, button, textarea, select {

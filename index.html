@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,29 +10,33 @@
   <!-- Include Plotly for interactive plots -->
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
-<body>
-  <div class="container-fluid px-8 mt-4">
-    <h2 class="text-center mb-4">Explore Derenbourg Catalogue</h3>
+<body class="d-flex flex-column">
+  <main class="flex-grow-1">
+    <div class="container-fluid px-4 mt-4">
+      <h2 class="text-center mb-4">Explore Derenbourg Catalogue</h2>
 
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-6">
-        <div class="card">
-          <div class="card-body text-center">
-            <h4 class="card-title mb-4">Choose your tool</h5>
-            <div class="d-grid gap-4">
-              <a href="src/html/filter.html" class="btn custom-search-btn">SEARCH AND FILTER DATA</a>
-              <a href="src/html/plot.html" class="btn custom-search-btn">VIEW DYNAMIC PLOTS</a>
+      <div class="row justify-content-center mb-4">
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-body text-center">
+              <h4 class="card-title mb-4">Choose your tool</h4>
+              <div class="d-grid gap-4">
+                <a href="src/html/filter.html" class="btn custom-search-btn">SEARCH AND FILTER DATA</a>
+                <a href="src/html/plot.html" class="btn custom-search-btn">VIEW DYNAMIC PLOTS</a>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </main>
 
-  </div>
+  <footer class="english_font text-gray-500 text-center text-xs py-4 mt-auto">
+    <p>Created by <a href="https://github.com/kabikaj/derenbourg" class="text-blue-500 hover:text-blue-700 hover:underline">Alicia González Martínez</a></p>
+  </footer>
 
   <!-- Scripts -->
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-  
 </body>
 </html>
