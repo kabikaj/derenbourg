@@ -5,6 +5,7 @@ The Derenbourg Catalogue of Arabic manuscripts in the El Escorial Collection (Le
 
 This project includes the OCR, post-processing and manual post-correction of the catalogue entries to use it in various IR tasks using LLMs.
 
+The project has been presented in the 2nd Escorial Arabic Codicology Alumni Meeting, "From Letters To Digits: The legacy of Arabic manuscripts in contemporary studies", Paris 13 - 14 May 2025, Convenor: Nuria de Castilla (EPHE, PSL).
 
 ## Workflow
 
