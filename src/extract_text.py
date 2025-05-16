@@ -4,6 +4,10 @@
 #
 # extract text from Arabic catalogues
 #
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
 # setup:
 #   Install gcloud, authenticate and setup project:
 #     $ pip install google-cloud-vision

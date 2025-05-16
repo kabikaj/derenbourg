@@ -5,6 +5,10 @@
 # prepare text data for RAG, convert json to plain txt files,
 #  one per catalogue entry
 #
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
 # usage:
 #   $ python3 prepare_data.py ../data/json ../data/text
 #

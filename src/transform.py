@@ -4,6 +4,10 @@
 #
 # use LLM to convert unstructured texts into strcutured json objects
 #
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
 # usage:
 #   $ python3 transform.py ../data/text_corrected ../data/json_modelled
 #     --service openai --ini 1 --end 150

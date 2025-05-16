@@ -4,6 +4,10 @@
 #
 # convert pdf to png images
 #
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
 # usage:
 #   $ bash pdf2png.sh ../data/pdf ../data/png
 #

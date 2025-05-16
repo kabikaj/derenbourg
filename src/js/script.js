@@ -1,3 +1,10 @@
+/*
+ * MIT License
+ *
+ * Copyright (c) 2025 Alicia González Martínez
+ *
+ */
+
 let data = [];
 
 const ManuscriptData = [
@@ -9101,11 +9108,9 @@ function showAutocomplete(filterType) {
 
     autocompleteContainer.innerHTML = '';
 
-    // Get unique values from the data
     let suggestions = [];
     
     if (propertyPath.length === 1) {
-        // Simple property (not nested)
         suggestions = [...new Set(data.flatMap(item => {
             const value = item[propertyPath[0]];
             if (Array.isArray(value)) {
@@ -9114,11 +9119,9 @@ function showAutocomplete(filterType) {
             return value !== null && value !== undefined ? [value] : [];
         }))];
     } else {
-        // Nested property handling with special case for publication fields
         suggestions = [...new Set(data.flatMap(item => {
             let value = item;
             
-            // Special handling for publication fields
             if (propertyPath[0] === 'publication') {
                 if (!item.publication || item.publication.length === 0) return [];
                 return item.publication.map(pub => {
@@ -9128,7 +9131,6 @@ function showAutocomplete(filterType) {
                 }).filter(val => val !== null);
             }
             
-            // General nested property handling
             for (const prop of propertyPath) {
                 if (value === null || value === undefined) return [];
                 
@@ -9153,7 +9155,7 @@ function showAutocomplete(filterType) {
         }))];
     }
 
-    // Filter out null/undefined and sort
+    // filter out null or undefined values and then sort
     suggestions = suggestions.filter(s => s != null)
         .map(s => s.toString())
         .filter((s, i, arr) => arr.indexOf(s) === i) // Remove duplicates

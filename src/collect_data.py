@@ -4,6 +4,10 @@
 #
 # collect all modelled data in one single json file for web app
 #
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
 # usage:
 #   $ python3 collect_data.py ../data/text_corrected ../data/json_modelled ../data/app_data.json
 #

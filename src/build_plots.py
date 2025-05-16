@@ -1,3 +1,16 @@
+#!/usr/env python3
+#
+#    build_plots.py
+#
+# MIT License
+#
+# Copyright (c) 2025 Alicia González Martínez
+#
+# usage:
+#   $ python3 build_plots.py
+#
+#############################################
+
 import math
 import pandas as pd
 import ujson as json
@@ -119,7 +132,6 @@ for i, date_type in enumerate(date_types):
         row=row, col=col
     )
     
-    # add places of printing
     if date_type == "date_of_printing":
         for _, row_data in df_sorted.iterrows():
             if row_data["place_of_printing"]:
@@ -135,13 +147,10 @@ for i, date_type in enumerate(date_types):
                     col=col
                 )
     
-    # update y-axis title
     fig.update_yaxes(title_text="Number of Folios", row=row, col=col)
     
-    # update x-axis title
     fig.update_xaxes(title_text="Hijri Year", row=row, col=col)
 
-    # add big dots indicating script
     for _, row_data in df_sorted.iterrows():
         fig.add_trace(
             go.Scatter(
@@ -167,7 +176,6 @@ for i, date_type in enumerate(date_types):
 
 row, col = positions[2]
 
-# create color mapping for scripts
 df['script_color'] = df['script'].map(script_colors)
 
 fig.add_trace(
@@ -189,7 +197,6 @@ fig.add_trace(
     row=row, col=col
 )
 
-# update axes for the third subplot
 fig.update_xaxes(title_text="Number of Folios", row=row, col=col)
 fig.update_yaxes(title_text="Lines per Page", row=row, col=col)
 
